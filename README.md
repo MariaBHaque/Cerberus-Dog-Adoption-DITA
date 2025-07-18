@@ -4,8 +4,8 @@
 
 ### Concept Topics:
 1. Cerberus Profile
-2. Dog Breed Information
-3. Dog Match Guide
+2. Dog Match Guide
+3. Cerberus's History
 4. Adoption Tools
 
 ### Task Topics:
