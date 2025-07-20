@@ -4,9 +4,10 @@
 
 ### Concept Topics:
 1. Cerberus Profile
-2. Dog Match Guide
-3. Cerberus's History
-4. Adoption Tools
+2. [Cerberus History](Concept:%20Cerberus%20History)  
+3. Dog Match Guide
+4. Cerberus's History
+5. Adoption Tools Overview
 
 ### Task Topics:
 1. How to Adopt Cerberus
@@ -14,12 +15,14 @@
 3. How to Introduce Cerberus to a Cat 
 4. Training Videos 
 5. Troubleshooting Post-Adoption Issues
+6. How to make Frozen Treats
 
 ### Reference Topics:
 1. Cerberus Health & Vaccination Record (helps fostering agencies keep updated records) 
 2. Common Housing Questions
 3. Checklist: Housing Requirements (quick checklist for adopters to assess readiness)
-4. Fact Sheet for Foster Agencies 
+4. Fact Sheet for Foster Agencies
+5. Cerberus Photo Repository 
 
 ### This project demonstrates key skills in: 
 - XML markup
