@@ -1,0 +1,159 @@
+<Reference id="Cerberus-health-record">
+<audience>Foster organizations, adopters, care volunteers</audience>
+  <title>Cerberus Health & Vaccination Record</title>
+  <shortdesc>Quick access to Cerberus’s medical history, vaccination status, and medication log. Supports consistent care, handoffs, and emergency vet visits.</shortdesc>
+  <refbody>
+      <section>
+        <title>Dog Details</title>
+        <ul>
+          <li>Name: Cerberus</li>
+          <li>Breed: Boxer-German Shepherd mix</li>
+          <li>Age: 10 months old</li>
+          <li>Weight: ___ lbs</li>
+          <li>Neutered: No</li>
+          <li>Microchipped: No</li>
+          <li>Known allergies or sensitivities: [Add if known]</li>
+        </ul>
+      </section>
+  
+      <section>
+      <title>Vaccination Summary</title>
+        <simpletable>
+          <sthead>
+            <stentry>Vaccine</stentry>
+            <stentry>Date Administered</stentry>
+            <stentry>Next Due</stentry>
+            <stentry>Notes</stentry>
+          </sthead>
+          <strow>
+            <stentry>Rabies</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[due date]</stentry>
+            <stentry>Core; legally required</stentry>
+          </strow>
+          <strow>
+            <stentry>DA2PP (core)</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[due date]</stentry>
+            <stentry>Distemper, adenovirus, parvovirus</stentry>
+          </strow>
+          <strow>
+            <stentry>Bordetella</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[due date]</stentry>
+            <stentry>Kennel cough (boarding requirement)</stentry>
+          </strow>
+          <strow>
+            <stentry>Canine Influenza</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[due date]</stentry>
+            <stentry>Optional based on region/facility</stentry>
+          </strow>
+          <strow>
+            <stentry>Leptospirosis</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[due date]</stentry>
+            <stentry>Optional; based on vet recommendation</stentry>
+          </strow>
+        </simpletable>
+      </section>
+  
+      <section>
+        <title>Medications and Treatments</title>
+        <simpletable>
+          <sthead>
+            <stentry>Medication or Procedure</stentry>
+            <stentry>Start Date</stentry>
+            <stentry>End Date or Ongoing</stentry>
+            <stentry>Reason / Notes</stentry>
+          </sthead>
+          <strow>
+            <stentry>Doxycycline</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>Treatment for kennel cough</stentry>
+          </strow>
+          <strow>
+            <stentry>Meloxicam</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>Anti-inflammatory for paw swelling</stentry>
+          </strow>
+          <strow>
+            <stentry>Monthly flea/tick (NexGard)</stentry>
+            <stentry>[start date]</stentry>
+            <stentry>Ongoing</stentry>
+            <stentry>Preventative; once every 30 days</stentry>
+          </strow>
+          <strow>
+            <stentry>Heartworm prevention</stentry>
+            <stentry>[start date]</stentry>
+            <stentry>Ongoing</stentry>
+            <stentry>Monthly; required for adoption</stentry>
+          </strow>
+        </simpletable>
+      </section>
+  
+      <section>
+        <title>Vet Visit Log</title>
+        <simpletable>
+          <sthead>
+            <stentry>Date</stentry>
+            <stentry>Clinic or Vet</stentry>
+            <stentry>Reason for Visit</stentry>
+            <stentry>Outcome or Notes</stentry>
+          </sthead>
+          <strow>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[Vet Name]</stentry>
+            <stentry>Intake / Initial exam</stentry>
+            <stentry>Prescribed meds; up-to-date vaccines</stentry>
+          </strow>
+          <strow>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[Vet Name]</stentry>
+            <stentry>Paw check-up</stentry>
+            <stentry>Resolved; no further issues</stentry>
+          </strow>
+          <strow>
+            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>[Vet Name]</stentry>
+            <stentry>Follow-up or boarding exam</stentry>
+            <stentry>Cleared for temporary boarding</stentry>
+          </strow>
+        </simpletable>
+      </section>
+  
+      <section>
+        <title>Upcoming Medical Needs</title>
+        <ul>
+          <li>Heartworm test due: [yyyy-mm-dd]</li>
+          <li>Next flea/tick dose: [yyyy-mm-dd]</li>
+          <li>Annual physical: [yyyy-mm-dd]</li>
+          <li>Rabies booster: [yyyy-mm-dd]</li>
+        </ul>
+      </section>
+  
+      <section>
+        <title>Record Maintenance Tips</title>
+        <ul>
+          <li>Keep both digital and printed versions for quick access.</li>
+          <li>Share updated versions with fosters, adopters, or vets.</li>
+          <li>Update this record after every visit, treatment, or medication change.</li>
+          <li>Bring this record to vet visits, travel, boarding, or adoption screenings.</li>
+        </ul>
+      </section>
+  
+      <section>
+        <title>Notes for Adopters and Foster Volunteers</title>
+        <p>This record helps ensure Cerberus receives continuous, informed care. It prevents missed doses or duplicate treatments. Always bring this with you to vet visits or when transferring care.</p>
+      </section>
+    </refbody>
+</reference>
+
+Christina - Questions:
+1. Which of these vaccines has Cerberus already received?
+2. Does he have any known allergies or medication sensitivities?
+3. Has he shown any side effects to flea/tick or heartworm meds?
+4. What was the last clinic used, and do they have records on file?
+5. Are there any treatments you’ve started that aren’t vet-prescribed?
