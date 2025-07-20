@@ -3,22 +3,21 @@
 ## This is a collaborative DITA project focused on a dog adoption site for Cerberus, a 10-month-old puppy.
 
 ### Concept Topics:
-1. Cerberus Profile
-2. [Cerberus History](Concept:%20Cerberus%20History)  
-3. Dog Match Guide
-4. Cerberus's History
-5. Adoption Tools Overview
+1. [Cerberus Profile](cerberus-profile)
+2. [Cerberus History](cerberus-history)  
+3. [Dog Match Guide](cerberus-Match-Guide)
+5. [Adoption Tools Overview](adoption-tools-overview) 
 
 ### Task Topics:
-1. How to Adopt Cerberus
-2. How to Prepare Your House for a Dog
-3. How to Introduce Cerberus to a Cat 
-4. Training Videos 
-5. Troubleshooting Post-Adoption Issues
-6. How to make Frozen Treats
+1. [How to Adopt Cerberus](how-to-adopt-cerberus) 
+2. [How to Prepare Your House for a Dog](how-to-prepare-your-house-for-a-dog)
+3. [How to Introduce Cerberus to a Cat](how-to-introduce-cerberus-to-a-cat) 
+4. Training Videos
+5. [Troubleshooting Post-Adoption Issues](troubleshooting-post-adoption-issues)
+6. [How to make Frozen Treats](how-to-make-frozen-treats-for-cerberus)
 
 ### Reference Topics:
-1. Cerberus Health & Vaccination Record (helps fostering agencies keep updated records) 
+1. [Cerberus Health & Vaccination Record (helps fostering agencies keep updated records)](Cerberus-Health-&-Vaccination-Record)
 2. Common Housing Questions
 3. Checklist: Housing Requirements (quick checklist for adopters to assess readiness)
 4. Fact Sheet for Foster Agencies
