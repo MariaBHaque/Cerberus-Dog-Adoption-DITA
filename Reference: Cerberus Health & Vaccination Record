@@ -9,10 +9,10 @@
           <li>Name: Cerberus</li>
           <li>Breed: Boxer-German Shepherd mix</li>
           <li>Age: 10 months old</li>
-          <li>Weight: ___ lbs</li>
+          <li>Weight: 50 lbs</li>
           <li>Neutered: No</li>
           <li>Microchipped: No</li>
-          <li>Known allergies or sensitivities: [Add if known]</li>
+          <li>Known allergies or sensitivities: None known</li>
         </ul>
       </section>
   
@@ -27,25 +27,25 @@
           </sthead>
           <strow>
             <stentry>Rabies</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
-            <stentry>[due date]</stentry>
+            <stentry>2025-01-07</stentry>
+            <stentry>2026-01-07</stentry>
             <stentry>Core; legally required</stentry>
           </strow>
           <strow>
             <stentry>DA2PP (core)</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
-            <stentry>[due date]</stentry>
+           <stentry>2025-01-07</stentry>
+            <stentry>2026-01-07</stentry>
             <stentry>Distemper, adenovirus, parvovirus</stentry>
           </strow>
           <strow>
             <stentry>Bordetella</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
-            <stentry>[due date]</stentry>
+            <stentry>2025-07-11</stentry>
+            <stentry>2026-07-11</stentry>
             <stentry>Kennel cough (boarding requirement)</stentry>
           </strow>
           <strow>
             <stentry>Canine Influenza</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>unknown</stentry>
             <stentry>[due date]</stentry>
             <stentry>Optional based on region/facility</stentry>
           </strow>
@@ -69,19 +69,19 @@
           </sthead>
           <strow>
             <stentry>Doxycycline</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>2025-07-07</stentry>
+            <stentry>2025-07-14/</stentry>
             <stentry>Treatment for kennel cough</stentry>
           </strow>
           <strow>
             <stentry>Meloxicam</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
-            <stentry>[yyyy-mm-dd]</stentry>
+            <stentry>2025-07-07</stentry>
+            <stentry>2025-07-14/</stentry>
             <stentry>Anti-inflammatory for paw swelling</stentry>
           </strow>
           <strow>
             <stentry>Monthly flea/tick (NexGard)</stentry>
-            <stentry>[start date]</stentry>
+            <stentry>2025-07-21</stentry>
             <stentry>Ongoing</stentry>
             <stentry>Preventative; once every 30 days</stentry>
           </strow>
@@ -128,9 +128,9 @@
         <title>Upcoming Medical Needs</title>
         <ul>
           <li>Heartworm test due: [yyyy-mm-dd]</li>
-          <li>Next flea/tick dose: [yyyy-mm-dd]</li>
+          <li>Next flea/tick dose: 2025-08-21</li>
           <li>Annual physical: [yyyy-mm-dd]</li>
-          <li>Rabies booster: [yyyy-mm-dd]</li>
+          <li>Rabies booster: 20026-01-07</li>
         </ul>
       </section>
   
@@ -153,7 +153,12 @@
 
 Christina - Questions:
 1. Which of these vaccines has Cerberus already received?
+- I will forward over his vaccine records via email from my personal gmail 
 2. Does he have any known allergies or medication sensitivities?
+- Not officially but he sneezes and itches a lot. I'm purchasing allergy chews to see if that helps. 
 3. Has he shown any side effects to flea/tick or heartworm meds?
+- No
 4. What was the last clinic used, and do they have records on file?
+- Grace Animal Hospital in Holly Springs NC, and yes: see 1 above
 5. Are there any treatments you’ve started that aren’t vet-prescribed?
+- No
