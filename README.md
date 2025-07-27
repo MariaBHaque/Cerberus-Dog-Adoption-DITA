@@ -4,7 +4,7 @@
 
 ### Concept Topics:
 1. [Cerberus Profile](cerberus-profile)
-2. [Cerberus History](cerberus-history)  
+2. [Cerberus History](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/ff88380c2226d9816b20d2f5f039dfa5474e552a/Concept-Cerberus-History)  
 3. [Dog Match Guide](cerberus-Match-Guide)
 5. [Adoption Tools Overview](Concept-Adoption-Tools-Overview) 
 
