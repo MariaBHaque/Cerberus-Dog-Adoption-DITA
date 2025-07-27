@@ -23,7 +23,7 @@
 2. Common Housing Questions
 3. [Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Adoption-Inquiry-Form)
 4. [Behaviour Log](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Behaviour-Log)
-5. Checklist: Housing Requirements (quick checklist for adopters to assess readiness)
+5. [Checklist: Housing Requirements](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/03c98ab36529cb77f8a509ce5ade60a290e7eaf3/Reference-Housing-Checklist)
 6. Fact Sheet for Foster Agencies
 7. [Cerberus Photo Repository](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/tree/36ef22e8354db746a754ceca20b69bae4a06d57d/Images) 
 
