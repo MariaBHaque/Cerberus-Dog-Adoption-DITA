@@ -1,5 +1,5 @@
 <concept id="cerberus-profile">
-  <title>Dog Profile: Meet Cerberus: A Puppy with a Big Heart and Even Bigger Loyalty!</title>
+  <title>Dog Profile: Meet Cerberus: A Puppy with a Big Heart!</title>
   <subtitle>Energetic, loyal, and ready to work with the right person.</subtitle>
   <shortdesc>
     A snapshot of Cerberus’s history and personality to introduce him to potential adopters and foster agencies.
@@ -62,25 +62,27 @@
       He is not suited for homes with cats, chaotic energy, or owners seeking an independent, low-maintenance pet.
     </p>
     <p>
-      For a quick eligibility reference, see the <xref href="housing-checklist.xml">Housing Requirements Checklist</xref>.
+      For a quick eligibility reference, see the <xref href="housing-checklist.dita">Housing Requirements Checklist</xref>.
     </p>
   </section>
+
+  <image href="Images/IMG_0305.JPG" alt="Cerberus Laying with his Mini Foster Human"/>
 
   <section>
     <title>Tools & Next Steps</title>
     <p><b> We’ve created several tools to help you make a confident, informed decision:</b></p>
     <ul>
-      <li><xref href="dog-match-guide.xml">Dog Match Guide</xref> – Compatibility, energy needs, and environment fit</li>
-      <li><xref href="adoption-tools-overview.xml">Adoption Tools Overview</xref> – What’s included in this package</li>
-      <li><xref href="how-to-adopt.xml">How to Adopt</xref> – Step-by-step process from inquiry to placement</li>
-      <li><xref href="contact-sheet.xml">Contact Sheet</xref> – Who to reach out to with questions or next steps</li>
+      <li><xref href="Concept-Cerberus-Match-Guide">Dog Match Guide</xref> – Compatibility, energy needs, and environment fit</li>
+      <li><xref href="Concept-Adoption-Tools-Overview">Adoption Tools Overview</xref> – What’s included in this package</li>
+      <li><xref href="Task-How-to-Adopt-Cerberus">How to Adopt</xref> – Step-by-step process from inquiry to placement</li>
+      <li><xref href="Reference-Cerberus-Health-and-Vaccination-Record">Health and Vaccination Record</xref> – Details about Cerberus's recent and upcoming vaccines and doctor appointments</li>
     </ul>
   </section>
 
   <section>
     <title>Ready to Proceed?</title>
     <p>
-      If Cerberus sounds like a good fit for your home or foster program, please explore the full adoption package, including the Dog Match Guide, care tools, and housing checklist, and complete our adoption questionnaire. We’ll follow up shortly to begin the conversation.
+      If Cerberus sounds like a good fit for your home or foster program, please explore the full adoption package, including the Dog Match Guide, care tools, and housing checklist, and complete our <xref href="Reference-Adoption-Inquiry-Form.dita">Adoption Inquiry Form</xref>. We’ll follow up shortly to begin the conversation.
     </p>
   </section>
 </concept>
