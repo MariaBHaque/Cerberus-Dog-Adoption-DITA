@@ -10,7 +10,7 @@
 
 ### Task Topics:
 1. [How to Adopt Cerberus](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Adopt-Cerberus) 
-2. [How to Prepare Your House for a Dog](how-to-prepare-your-house-for-a-dog)
+2. [How to Prepare Your House for a Dog](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/6627ffa585da0dc9cdf7f13458ad6f03e47fe9f2/Task-How-to-Prepare-Your-House-for-a-Dog)
 3. [How to Introduce Cerberus to a Cat](how-to-introduce-cerberus-to-a-cat)
 4. [How to Crate Train](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Crate-Train)
 5. [How to Submit an Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Submit-an-Adoption-Inquiry-Form) 
