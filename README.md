@@ -6,7 +6,7 @@
 1. [Cerberus Profile](cerberus-profile)
 2. [Cerberus History](cerberus-history)  
 3. [Dog Match Guide](cerberus-Match-Guide)
-5. [Adoption Tools Overview](adoption-tools-overview) 
+5. [Adoption Tools Overview](Concept-Adoption-Tools-Overview) 
 
 ### Task Topics:
 1. [How to Adopt Cerberus](how-to-adopt-cerberus) 
