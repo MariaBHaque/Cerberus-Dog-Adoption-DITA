@@ -1,0 +1,65 @@
+<reference id="adoption-inquiry-form">
+  <title>Adoption Inquiry Form – Cerberus</title>
+  <shortdesc>Use this form to submit an adoption inquiry for Cerberus. Please answer all questions and attach the requested photos to help us ensure a good match.</shortdesc>
+
+  <refbody>
+    <section>
+      <title>How to Complete This Form</title>
+      <p>Type your answers directly under each question in this form. Save the completed form 
+      and email it along with your photo attachments to:
+        <xref href="mailto:christinaemayr@gmail.com</xref>.
+      </p>
+      <p><b>Important:</b> Attach photos of your home and yard (if applicable) to the same email. 
+      You may also include photos of current pets or family members.</p>
+    </section>
+
+    <section>
+      <title>Applicant Details</title>
+      <ul>
+        <li>Full name: ___________________________________________________________________________________</li>
+        <li>Email address: ___________________________________________________________________________________</li>
+        <li>Phone number: ___________________________________________________________________________________</li>
+        <li>City and state/province: ___________________________________________________________________________________</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Home and Household</title>
+      <ul>
+        <li>Type of home (apartment, house, etc.):</li>
+        <li>Do you have a yard? Is it fenced?</li>
+        <li>How many household members live with you (names and ages)?</li>
+        <li>Do you currently have any other pets? If so, list species, breed, and age:</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Experience and Lifestyle</title>
+      <ul>
+        <li>Have you owned dogs before? If yes, describe your experience:</li>
+        <li>Have you ever had a high-energy or working breed dog?</li>
+        <li>What is your daily schedule like? How long would Cerberus be alone at home?</li>
+        <li>Who will be primarily responsible for his training and care?</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Motivation and Questions</title>
+      <ul>
+        <li>Why are you interested in adopting Cerberus?</li>
+        <li>Do you have any concerns or questions about his care, behavior, or training?</li>
+        <li>Are you willing to commit to a trial period and post-adoption follow-ups?</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Photo Attachments</title>
+      <p>Attach the following photos to the email with your completed form:</p>
+      <ul>
+        <li>Photos of your home (inside) and yard (if applicable)</li>
+        <li>Photos of other pets currently in the home</li>
+        <li>Optional: Photos of family members who live with you</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>
