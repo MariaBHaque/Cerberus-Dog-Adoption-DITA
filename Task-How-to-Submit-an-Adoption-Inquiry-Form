@@ -1,0 +1,65 @@
+<task id="submit-adoption-inquiry">
+  <title>How to Submit an Adoption Inquiry</title>
+  <shortdesc>
+    Start Cerberus's adoption process by submitting a clear and thoughtful inquiry that helps the foster team determine potential fit.
+  </shortdesc>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Read Cerberus's Profile Thoroughly</cmd>
+        <info>
+          Before submitting an inquiry, review Cerberus’s full biography, behavior notes, and care needs to ensure compatibility.
+        </info>
+      </step>
+
+      <step>
+        <cmd>Fill out the Inquiry Form</cmd>
+        <info>
+          Fill out the <xref href="Reference-Adoption-Inquiry-Form.dita">Adoption Inquiry Form</xref> and send the inquiry form in an email to christinaemayr@gmail.com with the subject line "Adoption Inquiry Form – Cerberus".
+        </info>
+      </step>
+
+      <step>
+        <cmd>Include the Following Details in Your Email</cmd>
+        <info>
+          <ul>
+            <li>Your full name and location (city, state)</li>
+            <li> Short introduction</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Attach Photos (Optional but Encouraged)</cmd>
+        <info>
+          Photos of your home, yard, or living space can help the team assess safety and suitability.
+        </info>
+      </step>
+
+      <step>
+        <cmd>Wait for a Response</cmd>
+        <info>
+          A foster coordinator or volunteer will follow up within 2-3 business days. 
+          They may ask clarifying questions or suggest next steps (screening call, home check, or meet-and-greet).
+        </info>
+      </step>
+    </steps>
+
+    <section>
+      <title>Tips for Success</title>
+      <ul>
+        <li>Be honest and specific. The goal isn’t to “pass,” but to find the right match.</li>
+        <li>Don’t worry if your setup isn’t perfect. Many issues can be supported with guidance.</li>
+        <li>If you’re not sure you’re ready to adopt but want to learn more, say so in the message.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>For Foster Orgs</title>
+      <p>
+        You can reuse this text in adoption listings or email templates. It helps standardize intake, reduces back-and-forth, and makes it easier to assess fit before proceeding.
+      </p>
+    </section>
+  </taskbody>
+</task>
