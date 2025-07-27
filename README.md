@@ -3,25 +3,29 @@
 ## This is a collaborative DITA project focused on a dog adoption site for Cerberus, a 10-month-old puppy.
 
 ### Concept Topics:
-1. [Cerberus Profile](cerberus-profile)
+1. [Cerberus Profile](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Concept-Cerberus-Profile) 
 2. [Cerberus History](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/ff88380c2226d9816b20d2f5f039dfa5474e552a/Concept-Cerberus-History)  
-3. [Dog Match Guide](cerberus-Match-Guide)
-5. [Adoption Tools Overview](Concept-Adoption-Tools-Overview) 
+3. [Dog Match Guide](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Concept-Cerberus-Match-Guide)
+5. [Adoption Tools Overview](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Concept-Adoption-Tools-Overview)
 
 ### Task Topics:
-1. [How to Adopt Cerberus](how-to-adopt-cerberus) 
+1. [How to Adopt Cerberus](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Adopt-Cerberus) 
 2. [How to Prepare Your House for a Dog](how-to-prepare-your-house-for-a-dog)
-3. [How to Introduce Cerberus to a Cat](how-to-introduce-cerberus-to-a-cat) 
-4. Training Videos
-5. [Troubleshooting Post-Adoption Issues](troubleshooting-post-adoption-issues)
-6. [How to make Frozen Treats](how-to-make-frozen-treats-for-cerberus)
+3. [How to Introduce Cerberus to a Cat](how-to-introduce-cerberus-to-a-cat)
+4. [How to Crate Train](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Crate-Train)
+5. [How to Submit an Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Submit-an-Adoption-Inquiry-Form) 
+6. Training Videos 
+7. [Troubleshooting Post-Adoption Issues](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Troubleshoot-Post-Adoption-Issues) 
+8. [How to make Frozen Treats](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task%3A%20How%20to%20Make%20Frozen%20Treats%20for%20Cerberus) 
 
 ### Reference Topics:
-1. [Cerberus Health & Vaccination Record (helps fostering agencies keep updated records)](Cerberus-Health-&-Vaccination-Record)
+1. [Cerberus Health & Vaccination Record](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Cerberus-Health-and-Vaccination-Record)
 2. Common Housing Questions
-3. Checklist: Housing Requirements (quick checklist for adopters to assess readiness)
-4. Fact Sheet for Foster Agencies
-5. Cerberus Photo Repository 
+3. [Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Adoption-Inquiry-Form)
+4. [Behaviour Log](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Behaviour-Log)
+5. Checklist: Housing Requirements (quick checklist for adopters to assess readiness)
+6. Fact Sheet for Foster Agencies
+7. [Cerberus Photo Repository](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/tree/36ef22e8354db746a754ceca20b69bae4a06d57d/Images) 
 
 ### This project demonstrates key skills in: 
 - XML markup
