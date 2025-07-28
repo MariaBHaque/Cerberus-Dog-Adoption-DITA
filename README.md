@@ -21,7 +21,7 @@
 
 ### Reference Topics:
 1. [Cerberus Health & Vaccination Record](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Cerberus-Health-and-Vaccination-Record)
-2. Common Housing Questions
+2. [Common Housing Questions](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/7370ff48a669f246d0a392de169d36585cc7a3cd/Reference-Common-Housing-Questions)
 3. [Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Adoption-Inquiry-Form)
 4. [Behaviour Log](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Behaviour-Log)
 5. [Checklist: Housing Requirements](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/03c98ab36529cb77f8a509ce5ade60a290e7eaf3/Reference-Housing-Checklist)
