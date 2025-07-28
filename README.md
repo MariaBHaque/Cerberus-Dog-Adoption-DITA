@@ -16,7 +16,7 @@
 5. [How to Submit an Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Submit-an-Adoption-Inquiry-Form) 
 6. Training Videos 
 7. [Troubleshooting Post-Adoption Issues](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Troubleshoot-Post-Adoption-Issues) 
-8. [How to make Frozen Treats](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task%3A%20How%20to%20Make%20Frozen%20Treats%20for%20Cerberus) 
+8. [How to make Frozen Treats](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/e170c2bc2b71c2a54f1ed6f3f6940b8797b92741/Task-How-to%20Make-Frozen-Treats)
 
 ### Reference Topics:
 1. [Cerberus Health & Vaccination Record](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Cerberus-Health-and-Vaccination-Record)
