@@ -11,8 +11,8 @@
 ### Task Topics:
 1. [How to Adopt Cerberus](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Adopt-Cerberus) 
 2. [How to Submit an Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Submit-an-Adoption-Inquiry-Form)
-3. [How to Prepare Your House for a Dog](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/6627ffa585da0dc9cdf7f13458ad6f03e47fe9f2/Task-How-to-Prepare-Your-House-for-a-Dog)
-4. [How to make Frozen Treats](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/e170c2bc2b71c2a54f1ed6f3f6940b8797b92741/Task-How-to%20Make-Frozen-Treats)
+3. [How to Prepare Your House for a Dog](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/773cb2a2a22fa51c5647af0760eb6fc90b6a0364/Task-How-to-Prepare-Your-House-for-a-Dog)
+4. [How to Make Frozen Treats](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/e170c2bc2b71c2a54f1ed6f3f6940b8797b92741/Task-How-to%20Make-Frozen-Treats)
 5. [How to Crate Train](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/dd8a6b8d551c8731c710420e9a55e28b9b137d89/Task-How-to-Crate-Train)
 6. [How to Introduce Cerberus to a Cat](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/e8b3490f00f16ddb2b1485a353006ce23e6c9779/Task-How-to-Introduce-Cerberus-to-a-Cat)
 7. [Troubleshooting Post-Adoption Issues](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Task-How-to-Troubleshoot-Post-Adoption-Issues)
