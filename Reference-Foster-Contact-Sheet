@@ -1,0 +1,66 @@
+<reference id="Volunteer-Foster-Contact-Sheet">
+  <title>Volunteer & Foster Contact Sheet</title>
+  <shortdesc>
+    Internal reference for foster team and volunteers. 
+    Lists key contacts, their roles, and the best way to reach them for Cerberus’s care and adoption needs.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>Contact Directory</title>
+      <simpletable>
+        <sthead>
+          <stentry>Name</stentry>
+          <stentry>Role / Responsibility</stentry>
+          <stentry>Email</stentry>
+          <stentry>Phone</stentry>
+          <stentry>When to Contact</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>[Christina Mayr]</stentry>
+          <stentry>Foster Coordinator</stentry>
+          <stentry>[christinaemayr@gmail.com]</stentry>
+          <stentry>[phone number]</stentry>
+          <stentry>All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+
+        <strow>
+          <stentry>[Name]</stentry>
+          <stentry>Medical Coordinator</stentry>
+          <stentry>[email@example.com]</stentry>
+          <stentry>[phone number]</stentry>
+          <stentry>Vet appointments, vaccination updates, medication questions</stentry>
+        </strow>
+
+        <strow>
+          <stentry>[Name]</stentry>
+          <stentry>Training & Behavior Volunteer</stentry>
+          <stentry>[email@example.com]</stentry>
+          <stentry>[phone number]</stentry>
+          <stentry>Behavior support, training resources, follow-up after adoption</stentry>
+        </strow>
+
+        <strow>
+          <stentry>[Name]</stentry>
+          <stentry>Adoption Applications Team</stentry>
+          <stentry>[email@example.com]</stentry>
+          <stentry>[phone number]</stentry>
+          <stentry>Processing adoption applications, background checks, home visits</stentry>
+        </strow>
+      </simpletable>
+    </section>
+
+    <section>
+      <title>Emergency Contacts</title>
+      <p>
+        For urgent issues (injuries, severe illness, or unsafe situations), 
+        contact the Foster Coordinator **and** the Medical Coordinator immediately.
+      </p>
+      <p>
+        If after hours, call the designated 24/7 emergency line:  
+        <b>[Emergency Phone Number]</b>
+      </p>
+    </section>
+  </refbody>
+</reference>
