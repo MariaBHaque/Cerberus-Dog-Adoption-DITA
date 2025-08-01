@@ -1,18 +1,17 @@
-<reference id="adoption-inquiry-form">
+<reference id="adoption-interview-questionnaire">
   <title>Adoption Inquiry Form – Cerberus</title>
-  <shortdesc>Use this form to submit an adoption inquiry for Cerberus. Please answer all questions and attach the requested photos to help us ensure a good match.</shortdesc>
+  <shortdesc>
+  This form is an optional adoption interview questionnaire. Please answer all questions and attach the requested photos to help us ensure a good match.
+  Submit your adoption request at https://rehome.adoptapet.com/adopters/application/4702523/step-1 and for a guide on how to submit an adoption form, check out the <xref href="Task-How-to-Adopt-Cerberus.xml">How to Adopt Cerberus guide</xref>.
+  </shortdesc>
 
   <refbody>
     <section>
-      <title>How to Complete and Submit This Form</title>
-      <p>Print your answers directly in this form. 
+      <title>How to Complete and Submit This Questionnaire</title>
+      <p>Print your answers directly in this form. You may include photos of current pets or family members. </p>
+      <p> Save the completed questionnaire and email it along with your photo attachments to: christinaemayr@gmail.com with the subject line "Adoption Interview Questionnaire – Cerberus".
       </p>
-      <p>Important: Attach photos of your home and yard (if applicable) to the same email. 
-      You may also include photos of current pets or family members.
-      </p>
-      <p> Save the completed form and email it along with your photo attachments to: christinaemayr@gmail.com with the subject line "Adoption Inquiry Form – Cerberus".
-      </p>
-      <p>Include the Following Details in Your Message or Form:</p>
+      <p>Include the Following Details in Your Email Message:</p>
       <ul>
         <li>Your full name and location (city, state)</li>
         <li> Short introduction</li>
