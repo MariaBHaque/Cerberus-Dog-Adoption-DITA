@@ -22,14 +22,13 @@
 ### Reference Topics:
 1. [Cerberus Health & Vaccination Record](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Cerberus-Health-and-Vaccination-Record)
 2. [Common Housing Questions](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/7370ff48a669f246d0a392de169d36585cc7a3cd/Reference-Common-Housing-Questions)
-3. [Adoption Inquiry Form](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Adoption-Inquiry-Form)
-4. [Behaviour Log](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Behaviour-Log)
-5. [Checklist: Housing Requirements](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/03c98ab36529cb77f8a509ce5ade60a290e7eaf3/Reference-Housing-Checklist)
-6. [Contact Sheet for Foster Agencies](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/b8ffab3d438328e9272dfbd976cc56fc95b405d0/Reference-Foster-Contact-Sheet)
-7. [Fact Sheet for Foster Agencies](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/eba1259d4ee7c12be1b9a98da448455c406d6e72/Reference-Foster-Fact-Sheet)
-8. [Supply List](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/10a81c5f80e17b5ee8dfa5903f2043d0db14b233/Reference-Cerberus-Supply-List)
-9. [External Breed Reference](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/44012f7189af250a61506313eb494dd7e364d4ef/Reference-External-Breed-Info)
-10. [Cerberus Photo Repository](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/tree/36ef22e8354db746a754ceca20b69bae4a06d57d/Images) 
+3. [Behaviour Log](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/36ef22e8354db746a754ceca20b69bae4a06d57d/Reference-Behaviour-Log)
+4. [Checklist: Housing Requirements](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/03c98ab36529cb77f8a509ce5ade60a290e7eaf3/Reference-Housing-Checklist)
+5. [Contact Sheet for Foster Agencies](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/b8ffab3d438328e9272dfbd976cc56fc95b405d0/Reference-Foster-Contact-Sheet)
+6. [Fact Sheet for Foster Agencies](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/eba1259d4ee7c12be1b9a98da448455c406d6e72/Reference-Foster-Fact-Sheet)
+7. [Supply List](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/10a81c5f80e17b5ee8dfa5903f2043d0db14b233/Reference-Cerberus-Supply-List)
+8. [External Breed Reference](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/blob/44012f7189af250a61506313eb494dd7e364d4ef/Reference-External-Breed-Info)
+9. [Cerberus Photo Repository](https://github.com/MariaBHaque/Cerberus-Dog-Adoption-DITA/tree/36ef22e8354db746a754ceca20b69bae4a06d57d/Images) 
 
 ### This project demonstrates key skills in: 
 - XML markup
