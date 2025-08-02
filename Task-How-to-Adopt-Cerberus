@@ -1,6 +1,6 @@
 <task id="adopt-cerberus">
   <title>How to Adopt Cerberus</title>
-  <shortdesc>This guide outlines a clear, step-by-step process to adopt Cerberus. It’s designed to help you manage expectations, reduce stress, and ensure a smooth match.</shortdesc>
+  <shortdesc>This guide shows you the full adoption process for Cerberus, from first application to final adoption, so you know exactly what to expect.</shortdesc>
 
   <taskbody>
     <steps>
@@ -16,10 +16,11 @@
       </step>
 
       <step>
-        <cmd>Step 2: Submit an Adoption Inquiry at AdoptAPet</cmd>
+        <cmd>Step 2: Submit an Adoption Inquiry at Adopt-a-Pet</cmd>
         <info>
           <ul>
-            <li>Complete the form at https://rehome.adoptapet.com/adopters/application/4702523/step-1, sharing honest details about your home, experience with dogs, other pets, routines, and why Cerberus appeals to you.</li>            
+            <li>Complete the form at https://rehome.adoptapet.com/adopters/application/4702523/step-1, sharing honest details about your home, experience with dogs, other pets, routines, and why Cerberus appeals to you.</li>
+            <li> For a step-by-step guide on how to submit an adoption inquiry form, see <xref href="Task-How-to-Submit-an-Adoption-Inquiry-Form.xml">the Adoption Inquiry Form Guide</xref>.</li>
           </ul>
         </info>
       </step>
@@ -70,7 +71,7 @@
         <cmd>Step 7: Final Adoption</cmd>
         <info>
           <ul>
-            <li>If the trial is successful, you will finalize the adoption by signing the adoption agreement and submitting the adoption fee through AdoptAPet, which helps cover Cerberus’s care and veterinary costs.</li>
+            <li>If the trial is successful, you will finalize the adoption by signing the adoption agreement and submitting the adoption fee through Adopt-a-Pet, which helps cover Cerberus’s care and veterinary costs.</li>
             <li>You’ll receive Cerberus’s full medical and behavioral records, daily routine guide, training logs, and key contact information for ongoing support.</li>
             <li>Post-adoption follow-ups ideally occur at 1 week, 30 days, 60 days, 90 days, and 6 months.</li>
           </ul>
