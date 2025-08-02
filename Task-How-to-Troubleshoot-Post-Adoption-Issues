@@ -6,6 +6,16 @@
     It provides step-by-step guidance to de-escalate behavior and stabilize trust without punishment or surrender.
   </shortdesc>
 
+  <section>
+    <title>Cerberus Overview</title>
+      <p>
+        Cerberus is in his toddler phase (cute and a bit anxious!), so he is still settling in and learning the basics. 
+        He already knows the command 'down' and is working on the command 'sit' after a successful leash evaluation. 
+        Like many young dogs, he can get excited during play and may jump up or nip, but with positive reinforcement and consistent training, he is making progress. 
+        He is currently in training with a professional dog trainer. 
+      </p>
+  </section>
+
   <taskbody>
     <steps>
       <step>
@@ -24,13 +34,14 @@
         <info>
           <ul>
             <li>Stay still and quiet. Do not reach toward him.</li>
-            <li>Remember: aggression is often fear-based or a form of boundary-setting, not a sign he is “bad.”</li>
+            <li>Remember: aggression is often fear-based or a form of boundary-setting, not a sign he is “bad”.</li>
             <li>Note what triggered it: sudden touch? A loud noise? Resource guarding? Proximity to another pet?</li>
-            <li>Do not punish or yell. Give him space. Remove the trigger if it is safe.</li>
+            <li>Do not punish or yell. Give him space. Remove the trigger if it is safe to do so.</li>
             <li>Use a calm, low voice and redirect him to a safe zone or crate (if conditioned).</li>
             <li>Document the incident: date, trigger, duration, and recovery time.</li>
             <li>If it happens repeatedly, contact the foster organization for support.</li>
           </ul>
+          <note>Track Cerberus's behaviour in the <xref href="Reference-Behaviour-Log">Behaviour Log</xref>.</li>
         </info>
       </step>
 
@@ -42,7 +53,7 @@
             <li>Use a calming environment: soft lighting, low noise, avoid eye contact or fast movements.</li>
             <li>Play calming music or dog-calming YouTube tracks.</li>
             <li>Offer a treat-stuffed toy, frozen lick mat, or safe chew to redirect.</li>
-            <li>Avoid leaving him alone for long periods early on. If you must, record a short video to watch for stress escalation.</li>
+            <li>Avoid leaving him alone for long periods early on.</li>
             <li>Use a consistent phrase like “All done” when leaving to create predictability.</li>
           </ul>
         </info>
@@ -66,7 +77,7 @@
       <step>
         <cmd>Track Behavior Patterns Over Time</cmd>
         <info>
-          <p>Use a <xref href="Reference-Behaviour-Log.dita">Behaviour Log</xref> to record:</p>
+          <p>Use a <xref href="Reference-Behaviour-Log">Behaviour Log</xref> to record:</p>
           <ul>
             <li>Triggers and what calmed him</li>
             <li>Eating, sleeping, and bathroom habits</li>
@@ -84,7 +95,7 @@
       <ul>
         <li>Unprovoked biting or escalating aggression</li>
         <li>Extreme withdrawal or cowering</li>
-        <li>No eating for 3+ days</li>
+        <li>No eating for 2+ days</li>
         <li>Inability to sleep or settle for hours at a time</li>
         <li>Harmful self-soothing (chewing paws, spinning)</li>
       </ul>
