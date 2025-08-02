@@ -14,7 +14,7 @@
         <li>Do you have enough indoor space for the dog to move around comfortably?</li>
         <li>Do you have a yard, patio, or access to nearby walking areas?</li>
         <li>Can you block off unsafe areas (stairs, pools, balconies) if needed?</li>
-        <li>Do you have a plan for exercise and potty breaks (especially if you live in an apartment)?</li>
+        <li>Do you have a plan for exercise and potty breaks (especially if you work long hours)?</li>
         <li>Do you have a designated feeding area (water and food bowls set up)?</li>
       </ul>
     </section>
@@ -27,9 +27,9 @@
       </p>
       <p>
         For additional preparation tips, see the 
-        <xref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita">How to Prepare Your House for a Dog</xref> guide.
+        <xref href="Task-How-to-Prepare-Your-House-for-a-Dog.xml">How to Prepare Your House for a Dog</xref> guide.
       </p>
-      <p> Once ready, fill out the <xref href="Reference-Adoption-Inquiry-Form.dita">Adoption Inquiry Form</xref> to start the adoption process.</p>
+      <p> Once ready, check out the <xref href="Task-How-to-Adopt-Cerberus">Adoption Inquiry Form</xref> to start the adoption process.</p>
     </section>
   </refbody>
 </reference>
