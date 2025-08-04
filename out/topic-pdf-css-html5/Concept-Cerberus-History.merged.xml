@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5?><?workdir-uri file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="Cerberus-history" specializations="@props/deliveryTarget" xtrc="concept:1;2:32" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Concept-Cerberus-History.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+<title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Background and Rehoming History</ph></title>
+  
+  <conbody class="- topic/body  concept/conbody ">
+    <image align="left" alt="Cerberus Sunbathing" class="- topic/image " height="320" href="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Images/IMG_0282.JPG" placement="inline" width="385"/>
+    <p class="- topic/p ">
+    Cerberus is a high-energy and intelligent German Shepherd–Boxer mix who has experienced several living environments in his first year. 
+    He originally lived in a rural area with open fields, which allowed him space to run but offered little structure or positive reinforcement. 
+    His early training emphasized discipline over bonding, and he was primarily treated as a guard dog. 
+    Despite this, Cerberus remained eager for connection and responded quickly to kindness.
+    </p>
+  
+    <p class="- topic/p ">
+    He later lived in a hotel for three to four months with his former owner and a secondary caregiver. 
+    Cerberus struggled with excess energy and the lack of consistency while confined indoors with limited stimulation. 
+    During this time, he formed a strong attachment to the caregiver who prioritized gentle handling and engagement.
+    </p>
+  
+    <p class="- topic/p ">
+    Due to housing instability, Cerberus traveled to multiple states before being brought back to North Carolina.
+    His transition was stressful, and he displayed signs of confusion and anxiety during attempts to place him in rescues or shelters. 
+    To avoid the risk of surrendering him to a shelter, a short-term boarding solution was arranged, where he received daily exercise, attention, and a chance to decompress.
+    </p>
+  
+    <p class="- topic/p ">
+    As part of his ongoing adjustment, Cerberus is still learning to trust new people fully. He is being trained on leash reactivity. 
+    Adopters must be prepared to facilitate slow, structured introductions with unfamiliar people and to continue using positive reinforcement to help Cerberus build confidence and trust over time.
+    </p>
+  
+    <p class="- topic/p ">Cerberus is now in stable foster care. He’s thriving with routine, affection, and space to move. 
+    His story reflects his resilience and readiness to bond with those who provide a calm, structured environment. 
+    This background informs his current behaviors and helps shape the kind of home where he’ll continue to succeed.
+    </p>
+    <simpletable class="- topic/simpletable " relcolwidth="1.04* 1.0*">
+      <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+          <image align="center" alt="Cerberus Laying on Grass" class="- topic/image " height="300" href="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Images/IMG_0393.JPG" placement="inline" width="260"/>
+        </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+          <image align="right" alt="Cerberus in Car" class="- topic/image " height="300" href="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Images/IMG_0183.JPG" placement="inline" width="300"/>
+        </stentry></strow>
+    </simpletable>
+  </conbody>
+</concept>

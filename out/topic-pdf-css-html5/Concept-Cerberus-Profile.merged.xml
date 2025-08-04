@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5?><?workdir-uri file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="cerberus-profile" specializations="@props/deliveryTarget" xtrc="concept:1;2:32" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Concept-Cerberus-Profile.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Meet Cerberus: A Puppy with Big Drive!</ph></title>
+  <shortdesc class="- topic/shortdesc ">
+    A snapshot of Cerberus’s history and personality to introduce him to potential adopters and foster agencies.
+  </shortdesc>
+  <conbody class="- topic/body  concept/conbody ">
+    <image alt="Cerberus Playing Catch Outside" class="- topic/image " height="340" href="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Images/IMG_0132.JPG" placement="inline" width="340"/>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Overview</title>
+      <p class="- topic/p ">Cerberus is a 10-month-old German Shepherd–Boxer mix with strong instincts and a clear need
+        for structure. He thrives in a calm, predictable environment and builds deep bonds with the
+        people who guide him. If you enjoy working with intelligent, responsive, and energetic dogs,
+        then Cerberus may be an ideal fit. </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Why He Stands Out</title>
+      <p class="- topic/p ">Cerberus combines intelligence with drive. He responds quickly to direction, enjoys a
+        challenge, and reads his environment closely. He connects deeply with people who use
+        consistent, respectful handling. His eagerness to learn makes him a rewarding companion for
+        someone who values daily engagement and structure.</p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">His Journey So Far</title>
+      <p class="- topic/p ">Cerberus started life in a rural setting with lots of open space but little structure. His
+        early training relied more on discipline than reward, and he was later housed in a small
+        hotel room with minimal outlets for energy or stimulation. Despite this, he stayed eager to
+        connect and responded quickly to kindness and routine. When his living situation changed,
+        Cerberus was brought to North Carolina, where he adjusted well in boarding care and showed
+        how resilient and responsive he truly is. </p>
+      <p class="- topic/p ">To read the full backstory and better understand his current behaviors, see: <xref class="- topic/xref " href="Concept-Cerberus-History.dita" type="concept"><?ditaot usertext?>Cerberus’s Rehoming History</xref>. </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">What He Needs</title>
+      <p class="- topic/p ">Cerberus will thrive in a home that offers:</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Daily structure and regular exercise</li><li class="- topic/li ">Positive reinforcement and clear expectations</li><li class="- topic/li ">Mental stimulation through play, training, or enrichment</li><li class="- topic/li ">Adults or children over five who respect boundaries</li><li class="- topic/li ">Limited time alone; he does best with a consistent daily care plan</li></ul>
+      <p class="- topic/p ">He prefers stable households with minimal chaos. As a working breed, Cerberus will thrive
+        in a space with a backyard or even on a farm! </p>
+      <p class="- topic/p "><i class="+ topic/ph hi-d/i ">To evaluate whether your home is a strong match, review the <xref class="- topic/xref " href="Concept-Cerberus-Match-Guide.dita" type="concept"><?ditaot usertext?>Dog Match Guide<?ditaot genshortdesc?><desc class="- topic/desc ">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.       A strong match ensures long-term success for both dog and caregiver.   </desc></xref>.</i>
+      </p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Who He Suits</title>
+      <p class="- topic/p ">Cerberus is a great match for people who:</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Have experience with working breeds or enjoy hands-on learning</li><li class="- topic/li ">Value training and daily engagement</li><li class="- topic/li ">Can provide a structured, calm, and communicative home</li><li class="- topic/li ">Want a loyal companion who thrives on guidance</li></ul>
+      <note class="- topic/note ">He is not suited for homes with cats, chaotic energy, or owners seeking a low-energy pet.</note>
+      <p class="- topic/p "><i class="+ topic/ph hi-d/i ">For a quick eligibility reference, see the <xref class="- topic/xref " href="Reference-Housing-Checklist.dita" type="reference"><?ditaot usertext?>Housing Requirements Checklist<?ditaot genshortdesc?><desc class="- topic/desc ">     This checklist helps adopters quickly review if their home is ready for a new dog. Use it before submitting an adoption inquiry.   </desc></xref>. </i></p>
+    </section>
+    <section class="- topic/section ">
+      <title class="- topic/title ">Tools and Next Steps</title>
+      <p class="- topic/p ">We’ve created several tools to help you make a confident, informed decision:</p>
+      <ul class="- topic/ul "><li class="- topic/li "><xref class="- topic/xref " href="Concept-Cerberus-Match-Guide.dita" type="concept"><?ditaot usertext?>Dog Match Guide<?ditaot genshortdesc?><desc class="- topic/desc ">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.       A strong match ensures long-term success for both dog and caregiver.   </desc></xref> – Compatibility, energy needs, and environment fit</li><li class="- topic/li "><xref class="- topic/xref " href="Task-How-to-Adopt-Cerberus.dita" type="task"><?ditaot usertext?>How to Adopt<?ditaot genshortdesc?><desc class="- topic/desc ">This guide shows you the full adoption process for Cerberus, from first application to final adoption, so you know exactly what to expect.</desc></xref> – Step-by-step process from inquiry to placement</li><li class="- topic/li "><xref class="- topic/xref " href="Reference-Cerberus-Health-and-Vaccination-Record.dita" type="reference"><?ditaot usertext?>Health and Vaccination Record<?ditaot genshortdesc?><desc class="- topic/desc ">This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</desc></xref> – Details about Cerberus's recent and upcoming vaccines and doctor appointments</li><li class="- topic/li "><xref class="- topic/xref " href="Task-How-to-Make-Frozen-Treats.dita" type="task"><?ditaot usertext?>Frozen Treat Recipe<?ditaot genshortdesc?><desc class="- topic/desc ">Offer Cerberus a calming, mentally stimulating activity that also supports digestion and routine. These frozen treats are helpful during crate time, transitions, or when he’s extra energetic and needs a healthy outlet.</desc></xref> - How-to-guide for making frozen treats.</li></ul>
+    </section>
+    <section class="- topic/section "><title class="- topic/title ">Ready to Adopt?</title><p class="- topic/p "> If Cerberus sounds like a good fit for your home or
+        foster program, please explore the full adoption package, including the Dog Match Guide,
+        care tools, and housing checklist, and check out the <xref class="- topic/xref " href="Task-How-to-Adopt-Cerberus.dita" type="task"><?ditaot usertext?>How to Adopt Cerberus Guide<?ditaot genshortdesc?><desc class="- topic/desc ">This guide shows you the full adoption process for Cerberus, from first application to final adoption, so you know exactly what to expect.</desc></xref>. We’ll follow up
+        shortly to begin the conversation! </p><p class="- topic/p "/>
+      <image alt="Cerberus Outside" class="- topic/image " height="390" href="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Images/IMG_0420.JPG" placement="inline" width="301"/>     
+    </section>  
+  </conbody>
+</concept>

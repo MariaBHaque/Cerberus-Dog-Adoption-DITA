@@ -1,19 +1,24 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="adoption-tools-overview">
   <title>Adoption Tools Overview</title>
 
-  <p>This toolkit supports both foster teams and potential adopters by providing clear, modular resources that make it easier to understand and care for Cerberus. 
-  Each tool is designed to be practical, shareable, and focused on setting him up for long-term success.</p>
+  <conbody>
+    <p>
+      This toolkit supports both foster teams and potential adopters by providing clear, modular resources that make it easier to understand and care for Cerberus. 
+      Each tool is designed to be practical, shareable, and focused on setting him up for long-term success.
+    </p>
 
-  <p><b>What’s Included:</b></p>
+  <p>What’s Included:</p>
   <ul>
-    <li>Dog Match Guide: Screen for fit</li>
-    <li>Printable Fact Sheet: A 1-page overview for meetings, home visits, or quick reviews</li>
-    <li>Health and Medical Record: Snapshot of Cerberus’s care history</li>
-    <li>Daily Routine Guide: A.M.-to-P.M. structure to reduce guesswork and support transition</li>
-    <li>Training and Behavior Log: Track and document progress over time</li>
+    <li><xref href="Concept-Cerberus-Match-Guide.dita"/>: Screen for fit</li>
+    <li><xref href="Reference-Foster-Contact-Sheet.dita"/>: Centralized information for coordinating with support network</li>
+    <li><xref href="Reference-Cerberus-Health-and-Vaccination-Record.dita"/>: Snapshot of Cerberus’s medical history</li>
+    <li><xref href="Reference-Daily-Routine.dita"/>: A.M.-to-P.M. structure to reduce guesswork and support transition</li>
+    <li><xref href="Reference-Behaviour-Log.dita"/>: Track behavioural progress over time</li>
     <li>Photo Repository: High-resolution images ready for listings and social media</li>
-    <li>External Breed Reference: Context for breed mix (Boxer–German Shepherd)</li>
-    <li>Contact Sheet: Centralized information for coordinating with support network</li>
-    <li>Frozen Treat Recipe: Support for mental stimulation in foster homes</li>
+    <li><xref href="Reference-External-Breed-Info.dita"/>: Context for breed mix (Boxer–German Shepherd)</li>
+    <li><xref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita"/>: Preparing your living space for Cerberus</li>
+    <li><xref href="Task-How-to-Make-Frozen-Treats.dita"/>: Treat recipe for mental stimulation</li>
   </ul>
+  </conbody>
 </concept>

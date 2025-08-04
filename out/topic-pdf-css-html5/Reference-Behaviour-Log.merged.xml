@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5?><?workdir-uri file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="behavior-log" specializations="@props/deliveryTarget" xtrc="reference:1;2:30" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Reference-Behaviour-Log.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Behavior Log – Cerberus</ph></title>
+  <shortdesc class="- topic/shortdesc ">
+    This log helps you track Cerberus’s behavior each day. 
+    Use it to write down what happened, what you did, and what worked. 
+    Share the log with the foster team or trainer if needed.
+  </shortdesc>
+
+  <refbody class="- topic/body        reference/refbody ">
+    <section class="- topic/section ">
+      <title class="- topic/title ">How to Use This Log</title>
+      <ul class="- topic/ul "><li class="- topic/li ">Write in the log once or twice a day.</li><li class="- topic/li ">Be clear about what happened and what you did to help.</li><li class="- topic/li ">Track things like eating, sleeping, bathroom habits, and reactions to people or pets.</li><li class="- topic/li ">Write down small wins or improvements you notice.</li></ul>
+    </section>
+
+    <section class="- topic/section ">
+      <title class="- topic/title ">Behavior Log Table</title>
+      <simpletable class="- topic/simpletable ">
+        <sthead class="- topic/sthead ">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">Date</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Trigger (What Happened?)</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1">Behavior (What Cerberus Did)</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="1">What You Did</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="1">Outcome (How He Calmed)</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="6" dita-ot:y="1">Notes / Wins</stentry>
+        </sthead>
+
+        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">2025-07-26</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">E.g., Visitor at the door</stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2">E.g., Barked and paced</stentry><stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="2">E.g., Guided to crate with treat</stentry><stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="2">E.g., Calmed in 5 minutes</stentry><stentry class="- topic/stentry " dita-ot:x="6" dita-ot:y="2">E.g., Barked less than last time</stentry></strow>
+
+        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry><stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry><stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry><stentry class="- topic/stentry " dita-ot:x="6" dita-ot:y="3">
+              <p class="- topic/p "> </p>
+              <p class="- topic/p "> </p>
+            </stentry></strow>
+        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="6" dita-ot:y="4">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry></strow>
+        <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry><stentry class="- topic/stentry " dita-ot:x="6" dita-ot:y="5">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p "> </p>
+          </stentry></strow>
+      </simpletable>
+    </section>
+  </refbody>
+</reference>

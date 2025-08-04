@@ -1,18 +1,15 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="Cerberus-match-guide">
-  <title>Concept: Cerberus Match Guide</title>
-
-  <section>
-    <title>Purpose</title>
-    <p>This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.  
-    A strong match ensures long-term success for both dog and caregiver.</p>
-  </section>
-
-  <section>
+  <title>Cerberus Match Guide</title>
+  <shortdesc>This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.  
+    A strong match ensures long-term success for both dog and caregiver.
+  </shortdesc>
+  <conbody>
+    <section>
     <title>Ideal Home Environment</title>
     <p>Cerberus thrives in calm, structured environments. He benefits from consistent routines and companionship throughout the day.
     A house with a secure yard works best. Cerberus is not suited to apartment living. 
     </p>
-    
     <p><b>Best fit:</b></p>
       <ul>
         <li>Access to outdoor space</li>
@@ -20,11 +17,9 @@
         <li>Human presence during most of the day</li>
       </ul>
   </section>
-
   <section>
     <title>Energy Compatibility</title>
     <p>Cerberus brings enthusiasm and a strong working drive. He needs regular movement, stimulation, and shared purpose. Daily walks, play, and short training sessions help him feel settled and engaged.</p>
-    
     <p><b>Care includes:</b></p>
       <ul>
         <li>60+ minutes of activity each day</li>
@@ -63,7 +58,7 @@
   </section>
 
   <section>
-    <title>Medical & Health Overview</title>
+    <title>Medical and Health Overview</title>
     <p>Cerberus maintains overall good health. Gentle care helps him continue to build confidence and strength.</p>
       <ul>
         <li>Treated for fleas on intake</li>
@@ -73,11 +68,11 @@
         <li>Recovering from kennel cough</li>
         <li>Healed bite on ear</li>
       </ul>
-    <p>For Cerberus's full medical and health overview, see the <xref href="Reference-Cerberus-Health-and-Vaccination-Record.dita">Health and Vaccination Record</xref></p>
+    <p>For Cerberus's full medical and health overview, see the <xref href="Reference-Cerberus-Health-and-Vaccination-Record.dita"/></p>
   </section>
 
   <section>
-    <title>Feeding & Food Habits</title>
+    <title>Feeding and Food Habits</title>
     <p>Cerberus eats well and responds to food as a training tool. He enjoys a steady routine and a balanced diet.</p>
       <ul>
         <li>Two meals daily of dry kibble</li>
@@ -88,7 +83,7 @@
   </section>
 
   <section>
-    <title>Temperament & Activity</title>
+    <title>Temperament and Activity</title>
     <p>Cerberus is alert, affectionate, and playful. He builds bonds quickly and shows joy when given shared tasks.</p>
       <ul>
         <li>Active and eager to engage</li>
@@ -101,7 +96,7 @@
   </section>
 
   <section>
-    <title>Socialization & Daily Life</title>
+    <title>Socialization and Daily Life</title>
     <p>Cerberus connects deeply and thrives in homes with structure. He values routine, activity, and companionship.</p>
       <ul>
         <li>Wakes up at 6 a.m., potty break, fetch, breakfast at 7 a.m., then bowel movement</li>
@@ -118,12 +113,13 @@
     <title>Training Needs</title>
     <p>Cerberus shows strong potential and benefits from structured, positive reinforcement.</p>
       <ul>
-        <li>Currently in formal training with ______</li> 
+        <li>Currently in formal training with Lydia Register (AAS, CPDT-KA)</li>
         <li>High prey drive (squirrels, rabbits, small dogs)</li>
         <li>Can jump up on cue</li>
       </ul>
+    <note>Lydia Register will offer discounted training sessions to Cerberus's future adopter. For more information, see </note>
     
-    <p><b>Training success depends on:</b></p>
+    <p>Training success depends on:</p>
       <ul>
         <li>Positive reinforcement</li>
         <li>Daily, clear communication</li>
@@ -147,4 +143,5 @@
     <p>Cerberus is energetic, trainable, and full of heart. He builds trust with presence, structure, and mutual respect. 
     Cerberus is a loyal and intelligent companion ready to grow alongside you.</p>
   </section>
+  </conbody>
 </concept>
