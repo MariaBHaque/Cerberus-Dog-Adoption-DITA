@@ -20,7 +20,10 @@
         <cmd>Step 2: Submit an Adoption Inquiry at Adopt-a-Pet</cmd>
         <info>
           <ul>
-            <li>Complete the form at https://rehome.adoptapet.com/adopters/application/4702523/step-1, sharing honest details about your home, experience with dogs, other pets, routines, and why Cerberus appeals to you.</li>
+            <li>Complete the form at  <xref
+                href="https://www.adoptapet.com/pet/45158641-holly-springs-north-carolina-german-shepherd-dog-mix"
+                class="- topic/xref " scope="external" format="html"> Adopt-a-Pet: Cerberus’s Adoption
+                Application </xref>, sharing honest details about your home, experience with dogs, other pets, routines, and why Cerberus appeals to you.</li>
             <li> For a step-by-step guide on how to submit an adoption inquiry form, see <xref href="Task-How-to-Submit-an-Adoption-Inquiry.dita">the Adoption Inquiry Form Guide</xref>.</li>
           </ul>
         </info>
@@ -74,7 +77,8 @@
           <ul>
             <li>If the trial is successful, you will finalize the adoption by signing the adoption agreement and submitting the adoption fee through Adopt-a-Pet, which helps cover Cerberus’s care and veterinary costs.</li>
             <li>You’ll receive Cerberus’s full medical and behavioral records, daily routine guide, training logs, and key contact information for ongoing support.</li>
-            <li>Recommended Post-adoption follow-ups ideally occur at 1 week, 30 days, 60 days, 90 days, and 6 months.</li>
+            <li>Recommended post-adoption follow-ups ideally occur at 1 week, 30 days, 60 days, 90
+              days, and 6 months.</li>
           </ul>
         </info>
       </step>

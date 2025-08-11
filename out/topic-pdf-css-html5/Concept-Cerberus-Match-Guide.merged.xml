@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5?><?workdir-uri file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="Cerberus-match-guide" specializations="@props/deliveryTarget" xtrc="concept:1;2:36" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Concept-Cerberus-Match-Guide.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+  <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Cerberus Match Guide</ph></title>
+  <shortdesc class="- topic/shortdesc ">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.  
+    A strong match ensures long-term success for both dog and caregiver.
+  </shortdesc>
+  <conbody class="- topic/body  concept/conbody ">
+    <section class="- topic/section ">
+    <title class="- topic/title ">Ideal Home Environment</title>
+    <p class="- topic/p ">Cerberus thrives in calm, structured environments. He benefits from consistent routines and companionship throughout the day.
+    A house with a secure yard works best. Cerberus is not suited to apartment living. 
+    </p>
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Best fit:</b></p>
+      <ul class="- topic/ul "><li class="- topic/li ">Access to outdoor space</li><li class="- topic/li ">Quiet, predictable routines</li><li class="- topic/li ">Human presence during most of the day</li></ul>
+  </section>
+  <section class="- topic/section ">
+    <title class="- topic/title ">Energy Compatibility</title>
+    <p class="- topic/p ">Cerberus brings enthusiasm and a strong working drive. He needs regular movement, stimulation, and shared purpose. Daily walks, play, and short training sessions help him feel settled and engaged.</p>
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Care includes:</b></p>
+      <ul class="- topic/ul "><li class="- topic/li ">60+ minutes of activity each day</li><li class="- topic/li ">Toys and games that challenge his mind</li><li class="- topic/li ">Consistent feedback and clear direction</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Experience Level</title>
+    <p class="- topic/p ">Cerberus responds to steady, confident leadership. With guidance, he adapts 
+    well and enjoys learning. Experienced handlers and new adopters who commit to 
+    structure and support can succeed with him.</p>
+    
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Caregiver strengths:</b></p>
+      <ul class="- topic/ul "><li class="- topic/li ">Clear boundaries and consistency</li><li class="- topic/li ">Commitment to ongoing training</li><li class="- topic/li ">Calm and attentive presence</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Household Compatibility</title>
+    <p class="- topic/p ">Cerberus does best in adult-only homes or with children over 5 years old. 
+    He prefers environments free from overstimulation. 
+    His high prey drive makes cat-free homes ideal. 
+    He may live well with a calm, balanced dog after a careful introduction.
+    </p>
+      
+    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Additional needs:</b></p>
+      <ul class="- topic/ul "><li class="- topic/li ">Time and space to decompress</li><li class="- topic/li ">Consistent structure to build trust</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Medical and Health Overview</title>
+    <p class="- topic/p ">Cerberus maintains overall good health. Gentle care helps him continue to build confidence and strength.</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Treated for fleas on intake</li><li class="- topic/li ">Not neutered yet; recommended at 12–18 months</li><li class="- topic/li ">Healing paw scrapes (as of July 6, 2025)</li><li class="- topic/li ">Sensitive to hot pavement</li><li class="- topic/li ">Recovering from kennel cough</li><li class="- topic/li ">Healed bite on ear</li></ul>
+    <p class="- topic/p ">For Cerberus's full medical and health overview, see the <xref class="- topic/xref " href="Reference-Cerberus-Health-and-Vaccination-Record.dita" type="reference"><?ditaot gentext?>Cerberus Health and Vaccination Record<?ditaot genshortdesc?><desc class="- topic/desc ">This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</desc></xref></p>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Feeding and Food Habits</title>
+    <p class="- topic/p ">Cerberus eats well and responds to food as a training tool. He enjoys a steady routine and a balanced diet.</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Two meals daily of dry kibble</li><li class="- topic/li ">Likes yogurt, peanut butter, broths, and watermelon</li><li class="- topic/li ">Fast eater and drinker (slow feeder recommended)</li><li class="- topic/li ">Begs at the table but is not fed from it</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Temperament and Activity</title>
+    <p class="- topic/p ">Cerberus is alert, affectionate, and playful. He builds bonds quickly and shows joy when given shared tasks.</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Active and eager to engage</li><li class="- topic/li ">Protective instincts; good alertness</li><li class="- topic/li ">Needs structured walks and mental games</li><li class="- topic/li ">Enjoys treat balls, squeaky toys, beach balls</li><li class="- topic/li ">Not responsive to frisbees</li><li class="- topic/li ">Supervision recommended during soft toy play</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Socialization and Daily Life</title>
+    <p class="- topic/p ">Cerberus connects deeply and thrives in homes with structure. He values routine, activity, and companionship.</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Wakes up at 6 a.m., potty break, fetch, breakfast at 7 a.m., then bowel movement</li><li class="- topic/li ">Loves children (above 5-8 years old)</li><li class="- topic/li ">Trained to give hugs, doesn’t jump up</li><li class="- topic/li ">Learning personal boundaries</li><li class="- topic/li ">Pack-oriented; enjoys daycare and dog companions</li><li class="- topic/li ">Dislikes crates and long periods alone</li><li class="- topic/li ">Not compatible with cats</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Training Needs</title>
+    <p class="- topic/p ">Cerberus shows strong potential and benefits from structured, positive reinforcement.</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Currently in formal training with Lydia Register (AAS, CPDT-KA)</li><li class="- topic/li ">High prey drive (squirrels, rabbits, small dogs)</li><li class="- topic/li ">Can jump up on cue</li></ul>
+    <note class="- topic/note ">Lydia Register will offer discounted training sessions to Cerberus's future adopter. For more information, see </note>
+    
+    <p class="- topic/p ">Training success depends on:</p>
+      <ul class="- topic/ul "><li class="- topic/li ">Positive reinforcement</li><li class="- topic/li ">Daily, clear communication</li><li class="- topic/li ">Avoidance of punishment-based methods</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Lifestyle Fit Scenarios</title>
+      <ul class="- topic/ul "><li class="- topic/li ">Remote or hybrid worker: Excellent match for consistent engagement</li><li class="- topic/li ">Active adult or couple: Good fit for shared activity and bonding</li><li class="- topic/li ">Retiree with routine: Works well if structured and attentive</li><li class="- topic/li ">High-traffic or chaotic home: Not a good match</li><li class="- topic/li ">Confined living space (i.e., apartment): Not a good match</li></ul>
+  </section>
+
+  <section class="- topic/section ">
+    <title class="- topic/title ">Summary</title>
+    <p class="- topic/p ">Cerberus is energetic, trainable, and full of heart. He builds trust with presence, structure, and mutual respect. 
+    Cerberus is a loyal and intelligent companion ready to grow alongside you.</p>
+  </section>
+  </conbody>
+</concept>

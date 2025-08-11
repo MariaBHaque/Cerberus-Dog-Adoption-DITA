@@ -1,6 +1,6 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="behavior-log">
-  <title>Behavior Log</title>
+  <title>Behaviour Log</title>
   <shortdesc>
     This log helps you track Cerberus’s behavior each day. 
     Use it to write down what happened, what you did, and what worked. 
@@ -19,7 +19,7 @@
     </section>
 
     <section>
-      <title>Behavior Log Table</title>
+      <title>Behaviour Log Table</title>
       <simpletable>
         <sthead>
           <stentry>Date</stentry>

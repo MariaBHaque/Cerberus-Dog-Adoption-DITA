@@ -22,15 +22,12 @@
 
     <section>
       <title>Next Steps</title>
-      <p>
-        If you can check off most or all items, your home is likely ready for a new dog.
-        If you are missing some items, take time to address them before bringing a dog home.
-      </p>
-      <p>
-        For additional preparation tips, see the 
-        <xref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita">How to Prepare Your House for a Dog</xref> guide.
-      </p>
-      <p> Once ready, check out the <xref href="Task-How-to-Adopt-Cerberus.dita">Adoption Inquiry Form</xref> to start the adoption process.</p>
+      <p>If you can check off most or all items, your home is likely ready for a new dog. If you are
+        missing some items, take time to address them before bringing a dog home. </p>
+      <p>For additional preparation tips, see the <xref
+          href="Task-How-to-Prepare-Your-House-for-a-Dog.dita">How to Prepare Your House for a
+          Dog</xref> guide. </p>
+      <p>Once ready, check out the <xref href="Task-How-to-Adopt-Cerberus.dita">How to Adopt Cerberus Guide</xref> to start the adoption process.</p>
     </section>
   </refbody>
 </reference>

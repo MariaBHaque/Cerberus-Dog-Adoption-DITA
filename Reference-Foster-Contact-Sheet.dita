@@ -19,35 +19,45 @@
         </sthead>
 
         <strow>
-          <stentry>[Christina Mayr]</stentry>
+          <stentry>Christina Mayr</stentry>
           <stentry>Foster Coordinator</stentry>
-          <stentry>[christinaemayr@gmail.com]</stentry>
-          <stentry>[phone number]</stentry>
+          <stentry>
+            <p><xref href="mailto:christinaemayr@gmail.com" format="html" scope="external">christinaemayr@gmail.com</xref></p>
+          </stentry>
+          <stentry>+1 919-622-7508</stentry>
           <stentry>All adoption inquiries, foster support, behavioral questions</stentry>
         </strow>
-
+        
         <strow>
-          <stentry>Lydia Register</stentry>
+          <stentry>Ruby Leonaraine</stentry>
+          <stentry>Foster Coordinator</stentry>
+          <stentry>
+            <p><xref href="mailto:rubyleonaraine@protonmail.com" format="html" scope="external"
+                >rubyleonaraine@protonmail.com</xref></p>
+          </stentry>
+          <stentry>860-209-3127</stentry>
+          <stentry>All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+        
+        <strow>
+          <stentry>Lydia Register - Puptential Training</stentry>
           <stentry>Training and Behaviour</stentry>
-          <stentry>[email@example.com]</stentry>
-          <stentry>[phone number]</stentry>
+          <stentry>
+            <p><xref href="mailto:puptentialtraining@gmail.com" format="html" scope="external"
+              >puptentialtraining@gmail.com</xref></p>
+          </stentry>
+          <stentry>+1 919-896-2985</stentry>
           <stentry>Behavior support, training resources, training follow-up after adoption</stentry>
         </strow>
 
         <strow>
-          <stentry>[Name]</stentry>
-          <stentry>Training and Behavior Volunteer</stentry>
-          <stentry>[email@example.com]</stentry>
-          <stentry>[phone number]</stentry>
-          <stentry>Vet appointments, vaccination updates, medication questions</stentry>
-        </strow>
-
-        <strow>
           <stentry>Maria Haque</stentry>
-          <stentry>Adoption Applications Team</stentry>
-          <stentry>[email@example.com]</stentry>
-          <stentry>[phone number]</stentry>
-          <stentry>Processing adoption applications, background checks, home visits</stentry>
+          <stentry>Adoption Project Lead</stentry>
+          <stentry>
+            <p><xref href="mailto:mariahaque35@gmail.com" format="html" scope="external">mariahaque35@gmail.com</xref></p>
+          </stentry>
+          <stentry>+1 647-907-5562</stentry>
+          <stentry>PDF/content reuse, documentation questions</stentry>
         </strow>
       </simpletable>
     </section>

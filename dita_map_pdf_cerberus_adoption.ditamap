@@ -1,11 +1,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <topichead navtitle="About Cerberus">
+    <topichead navtitle="Introduction">
         <topicref href="Concept-Cerberus-Profile.dita"/>
         <topicref href="Concept-Cerberus-History.dita"/>
         <topicref href="Reference-External-Breed-Info.dita"/>
-        <topicref href="Concept-Cerberus-Match-Guide.dita"/>
         <topicref href="Concept-Adoption-Tools-Overview.dita"/>
+        <topicref href="Concept-Cerberus-Match-Guide.dita"/>
     </topichead>
     <topichead navtitle="Adoption Process" collection-type="unordered">
         <topicref href="Task-How-to-Adopt-Cerberus.dita"/>

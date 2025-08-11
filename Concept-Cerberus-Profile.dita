@@ -2,7 +2,7 @@
 <concept id="cerberus-profile">
   <title>Meet Cerberus: A Puppy with Big Drive!</title>
   <shortdesc>
-    A snapshot of Cerberus’s history and personality to introduce him to potential adopters and foster agencies.
+    Hi, I'm Cerberus! I'm an energetic and intelligent working dog breed looking for my forever home. Please read through this PDF guide to see if we're a good match!
   </shortdesc>
   <conbody>
     <image href="Images/IMG_0132.JPG" alt="Cerberus Playing Catch Outside" width="340" height="340"/>
@@ -28,8 +28,8 @@
         connect and responded quickly to kindness and routine. When his living situation changed,
         Cerberus was brought to North Carolina, where he adjusted well in boarding care and showed
         how resilient and responsive he truly is. </p>
-      <p>To read the full backstory and better understand his current behaviors, see: <xref
-          href="Concept-Cerberus-History.dita">Cerberus’s Rehoming History</xref>. </p>
+      <p><i>To read the full backstory and better understand his current behaviors, see: <xref
+          href="Concept-Cerberus-History.dita">Cerberus’s Rehoming History</xref>.</i></p>
     </section>
     <section>
       <title>What He Needs</title>
@@ -43,9 +43,7 @@
       </ul>
       <p>He prefers stable households with minimal chaos. As a working breed, Cerberus will thrive
         in a space with a backyard or even on a farm! </p>
-      <p><i>To evaluate whether your home is a strong match, review the <xref
-            href="Concept-Cerberus-Match-Guide.dita">Dog Match Guide</xref>.</i>
-      </p>
+      <p><i>To evaluate whether your home is a strong match, review the <xref href="Concept-Cerberus-Match-Guide.dita">Dog Match Guide</xref>.</i></p>
     </section>
     <section>
       <title>Who He Suits</title>
@@ -62,7 +60,7 @@
     </section>
     <section>
       <title>Tools and Next Steps</title>
-      <p>We’ve created several tools to help you make a confident, informed decision:</p>
+      <p>We’ve created several tools to help you make a confident, informed decision. Here are some tools:</p>
       <ul>
         <li><xref href="Concept-Cerberus-Match-Guide.dita">Dog Match Guide</xref> – Compatibility, energy needs, and environment fit</li>
         <li><xref href="Task-How-to-Adopt-Cerberus.dita">How to Adopt</xref> – Step-by-step process from inquiry to placement</li>
