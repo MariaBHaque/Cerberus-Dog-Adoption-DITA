@@ -8,22 +8,21 @@
       <title>Dog Details</title>
       <ul>
         <li><b>Name:</b> Cerberus</li>
-        <li><b>Breed:</b> Boxer / German Shepherd (Mix)</li>
+        <li><b>Breed:</b> Shepherd (Mix)</li>
         <li><b>Colour:</b> Tan/Yellow/Fawn with White</li>
         <li><b>Sex: </b>Male</li>
-        <li><b>Age:</b> 10 months old</li>
-        <li><b>Weight:</b> 52 lbs (current)</li>
-        <li><b>Neutered:</b> No</li>
+        <li><b>Age:</b> 11 months old</li>
+        <li><b>Weight:</b> 55 lbs (current)</li>
+        <li><b>Neutered:</b> Yes</li>
         <li><b>Microchipped:</b> No</li>
         <li><b>Pet ID:</b>7264971</li>
-        <li><b>Allergies: </b>None officially, but sneezes and itches frequently (testing allergy
-          chews)</li>
+        <li><b>Allergies:</b> Chicken</li>
       </ul>
     </section>
 
     <section>
       <title>Vaccination Summary</title>
-      <p>Based on Grace Animal Hospital and Tender Heart Mobile Veterinary Services records:</p>
+      <p>Cerberus is up-to-date on all required vaccines. Based on Grace Animal Hospital and Tender Heart Mobile Veterinary Services records:</p>
       <simpletable>
         <sthead>
           <stentry>Vaccine</stentry>
@@ -67,7 +66,8 @@
     <section>
       <title>Medications and Treatments</title>
       <ul>
-        <li>Doxycycline: 2025-07-07 to 2025-07-14 (kennel cough)</li>
+        <li>Amoxicillin: 2025-08-27 to 2025-09-06 (respiratory infection)</li>
+        <li>Doxycycline: 2025-07-07 to 2025-07-14 (respiratory infection)</li>
         <li>Meloxicam: 2025-07-07 to 2025-07-14 (anti-inflammatory)</li>
         <li>NexGard (flea/tick prevention): Started 2025-07-21 (given every 30 days)</li>
         <li>Heartworm prevention: Monthly (start date pending)</li>
@@ -87,7 +87,7 @@
     <section>
       <title>Upcoming Medical Needs</title>
       <ul>
-        <li>Heartworm test due: Not yet tested</li>
+        <li>Heartworm test due: Tested negative July 2025</li>
         <li>Next flea/tick dose: 2025-08-21</li>
         <li>Annual physical: 2026-01-07</li>
         <li>Rabies booster: 2026-01-07</li>
