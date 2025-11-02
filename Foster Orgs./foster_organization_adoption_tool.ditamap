@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Foster Organization Adoption Tool</title>
+    <topicref href="Concept-Cerberus-Profile%20foster%20orgs.dita"/>
+    <topicref href="Reference-Common-Housing-Questions%20foster%20orgs.dita"/>
+    <topicref href="photo-repository-foster-orgs.dita"/>
+</map>

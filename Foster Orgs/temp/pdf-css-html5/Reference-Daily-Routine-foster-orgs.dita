@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster Orgs/temp/pdf-css-html5?><?workdir-uri file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="Daily-Routine" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="reference:1;2:31" specializations="@props/deliveryTarget">
+  <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:1;3:10">Daily Routine: Feeding, Exercise, and Potty</title>
+  <shortdesc class="- topic/shortdesc " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="shortdesc:1;4:14">
+    Cerberus thrives with a consistent daily schedule to balance his energy, meet his core needs, and build trust.
+  </shortdesc>
+
+  <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="refbody:1;8:12">
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:1;9:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:2;10:14">Morning Routine</title>
+      <ul class="- topic/ul " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="ul:1;11:11">
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:1;12:13">Potty break immediately upon waking.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:2;13:13">20–30 min active walk or play.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:3;14:13">Breakfast meal with potty break afterward.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:2;18:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:3;19:14">Midday Routine</title>
+      <ul class="- topic/ul " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="ul:2;20:11">
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:4;21:13">Potty break, short walk or play session (10–15 min).</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:5;22:13">Provide mental enrichment (puzzle toys, frozen treats).</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:3;26:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:4;27:14">Afternoon and Evening Routine</title>
+      <ul class="- topic/ul " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="ul:3;28:11">
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:6;29:13">45–60 min structured exercise.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:7;30:13">Dinner meal followed by potty break.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:8;31:13">Quiet activities: training, grooming, cuddles.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:4;35:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:5;36:14">Bedtime Routine</title>
+      <ul class="- topic/ul " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="ul:4;37:11">
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:9;38:13">Final potty break before bed.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:10;39:13">Settle in a designated sleeping area.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:5;43:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:6;44:14">Weekly Grooming</title>
+      <ul class="- topic/ul " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="ul:5;45:11">
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:11;46:13">Coat brushing.</li>
+        <li class="- topic/li " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="li:12;47:13">Teeth brushing with dog-safe toothpaste.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="section:6;51:14">
+      <title class="- topic/title " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="title:7;52:14">Importance of Routine</title>
+      <p class="- topic/p " xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita" xtrc="p:1;53:10">
+        A consistent routine reduces stress, supports training, and promotes calm, confident behavior.
+      </p>
+    </section>
+  </refbody>
+</reference>

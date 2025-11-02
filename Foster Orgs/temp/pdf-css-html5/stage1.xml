@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap">Foster Organization Adoption Tool</title>
+    <topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="Concept-Cerberus-Profile%20foster%20orgs.dita" type="concept" xtrc="topicref:1;5:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="cerberus-profile"><resourceid appid="cerberus-profile" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Meet Cerberus: A Puppy with Big Drive!</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Meet Cerberus: A Puppy with Big Drive!</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     Hi, I'm Cerberus! I'm an energetic and intelligent working dog breed looking for my forever home. Please read through this PDF guide to see if we're a good match!   </shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" ohref="Concept-Cerberus-Match-Guide-foster-orgs.dita" type="concept" xtrc="topicref:2;6:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="Cerberus-match-guide"><resourceid appid="Cerberus-match-guide" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Cerberus Match Guide</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Cerberus Match Guide</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.       A strong match ensures long-term success for both dog and caregiver.   </shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="Reference-Daily-Routine-foster-orgs.dita" type="reference" xtrc="topicref:3;7:64" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="Daily-Routine"><resourceid appid="Daily-Routine" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Daily Routine: Feeding, Exercise, and Potty</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Daily Routine: Feeding, Exercise, and Potty</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     Cerberus thrives with a consistent daily schedule to balance his energy, meet his core needs, and build trust.   </shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" ohref="Reference-Common-Housing-Questions%20foster%20orgs.dita" type="reference" xtrc="topicref:4;8:79" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="Common-Housing-Questions"><resourceid appid="Common-Housing-Questions" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Common Housing Questions</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Common Housing Questions</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     This reference answers the most common questions about preparing your home for Cerberus.    </shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" ohref="Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita" type="reference" xtrc="topicref:5;9:89" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="cerberus-health-record"><resourceid appid="cerberus-health-record" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Cerberus Health and Vaccination Record</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Cerberus Health and Vaccination Record</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="Reference-Foster-Contact-Sheet-foster-orgs.dita" type="reference" xtrc="topicref:6;10:71" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="Volunteer-Foster-Contact-Sheet"><resourceid appid="Volunteer-Foster-Contact-Sheet" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Volunteer and Foster Contact Sheet</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Volunteer and Foster Contact Sheet</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     Internal reference for foster team and volunteers.      Lists key contacts, their roles, and the best way to reach them for Cerberus’s care and adoption needs.   </shortdesc></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" ohref="photo-repository-foster-orgs.dita" type="concept" xtrc="topicref:7;11:57" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./foster_organization_adoption_tool.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="photo-repository.dita"><resourceid appid="photo-repository.dita" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Photo Repository</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Photo Repository</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This photo repository contains pictures of Cerberus with his foster family and friends. Photos are accompanied with a short description.</shortdesc></topicmeta></topicref>
+</opentopic:map><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_1" oid="cerberus-profile" specializations="@props/deliveryTarget" xtrc="concept:1;2:32" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Meet Cerberus: A Puppy with Big Drive!</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+    Hi, I'm Cerberus! I'm an energetic and intelligent working dog breed looking for my forever home. Please read through this PDF guide to see if we're a good match!
+  </shortdesc>
+  <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;7:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+    <image align="left" alt="Cerberus Sunbathing" class="- topic/image " height="320" href="Images/IMG_0282.JPG" placement="inline" width="381" xtrc="image:1;9:21" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"/>
+    <section class="- topic/section " xtrc="section:1;10:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:2;11:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Overview</title>
+      <p class="- topic/p " xtrc="p:1;12:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Cerberus is a 10-month-old German Shepherd–Boxer mix with strong instincts and a clear need
+        for structure. He thrives in a calm, predictable environment and builds deep bonds with the
+        people who guide him. If you enjoy working with intelligent, responsive, and energetic dogs,
+        then Cerberus may be an ideal fit. </p>
+    </section>
+    <section class="- topic/section " xtrc="section:2;17:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:3;18:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">His Journey So Far</title>
+      <p class="- topic/p " xtrc="p:2;19:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Cerberus started life in a rural setting with lots of open space but little structure. His
+        early training relied more on discipline than reward, and he was later housed in a small
+        hotel room with minimal outlets for energy or stimulation. Despite this, he stayed eager to
+        connect and responded quickly to kindness and routine. When his living situation changed,
+        Cerberus was brought to North Carolina, where he adjusted well in boarding care and showed
+        how resilient and responsive he truly is. </p>
+    </section>
+    <section class="- topic/section " xtrc="section:3;26:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:4;27:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">What He Needs</title>
+      <p class="- topic/p " xtrc="p:3;28:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Cerberus will thrive in a home that offers:</p>
+      <ul class="- topic/ul " xtrc="ul:1;29:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+        <li class="- topic/li " xtrc="li:1;30:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Daily structure and regular exercise</li>
+        <li class="- topic/li " xtrc="li:2;31:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Positive reinforcement and clear expectations</li>
+        <li class="- topic/li " xtrc="li:3;32:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Mental stimulation through play, training, or enrichment</li>
+        <li class="- topic/li " xtrc="li:4;33:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Adults or children over five who respect boundaries</li>
+        <li class="- topic/li " xtrc="li:5;34:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Limited time alone; he does best with a consistent daily care plan</li>
+      </ul>
+      <p class="- topic/p " xtrc="p:4;36:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">He prefers stable households with minimal chaos. As a working breed, Cerberus will thrive
+        in a space with a backyard or even on a farm! </p>
+    </section>
+    <section class="- topic/section " xtrc="section:4;39:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+      <note class="- topic/note " xtrc="note:1;40:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">He is not suited for homes with cats, chaotic energy, or owners seeking a low-energy pet.</note>
+    </section>
+    <section class="- topic/section " xtrc="section:5;42:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><title class="- topic/title " xtrc="title:5;42:21" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Tools</title><p class="- topic/p " xtrc="p:5;42:37" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">We’ve created several tools to help you through
+        the adoption process. Here are some tools:</p><ul class="- topic/ul " xtrc="ul:2;43:59" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">
+        <li class="- topic/li " xtrc="li:6;44:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><xref class="- topic/xref " href="#unique_2" ohref="Concept-Cerberus-Match-Guide-foster-orgs.dita" type="concept" xtrc="xref:1;44:72" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Dog Match Guide<?ditaot genshortdesc?><desc class="- topic/desc ">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.       A strong match ensures long-term success for both dog and caregiver.   </desc></xref> – Compatibility,
+          energy needs, and environment fit</li>
+        <li class="- topic/li " xtrc="li:7;46:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><xref class="- topic/xref " href="#unique_3" ohref="Reference-Common-Housing-Questions%20foster%20orgs.dita" type="reference" xtrc="xref:2;46:82" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Common Housing Questions<?ditaot genshortdesc?><desc class="- topic/desc ">     This reference answers the most common questions about preparing your home for Cerberus.    </desc></xref> - FAQs for adopting Cerberus.</li>
+        <li class="- topic/li " xtrc="li:8;47:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><xref class="- topic/xref " href="#unique_4" ohref="photo-repository-foster-orgs.dita" type="concept" xtrc="xref:3;47:60" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Photo Repository<?ditaot genshortdesc?><desc class="- topic/desc ">This photo repository contains pictures of Cerberus with his foster family and friends. Photos are accompanied with a short description.</desc></xref> - Collection of Cerberus's
+          pictures with short descriptions</li>
+        <li class="- topic/li " xtrc="li:9;49:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><xref class="- topic/xref " href="#unique_3" ohref="Reference-Common-Housing-Questions%20foster%20orgs.dita" type="reference" xtrc="xref:4;49:82" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Cerberus's Daily Routine<?ditaot genshortdesc?><desc class="- topic/desc ">     This reference answers the most common questions about preparing your home for Cerberus.    </desc></xref> - Overview of
+          Cerberus's daily routine</li>
+        <li class="- topic/li " xtrc="li:10;51:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><xref class="- topic/xref " href="#unique_5" ohref="Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita" type="reference" xtrc="xref:5;51:92" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Health and Vaccination Record<?ditaot genshortdesc?><desc class="- topic/desc ">This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</desc></xref> – Details about Cerberus's recent and upcoming vaccines and doctor appointments</li>
+      </ul>
+    </section>
+    <section class="- topic/section " xtrc="section:6;54:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><title class="- topic/title " xtrc="title:6;54:21" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">Ready to Adopt?</title><p class="- topic/p " xtrc="p:6;54:47" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita">If Cerberus sounds like a good fit for your home or
+        foster program, please explore the full adoption package, and contact <xref class="- topic/xref " format="html" href="mailto:christinaemayr@gmail.com" scope="external" xtrc="xref:6;55:155" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"><?ditaot usertext?>Christina Mayr</xref>, the foster coordinator.
+        She’ll follow up shortly to begin the conversation!</p>
+      <image alt="Cerberus Smiling" class="- topic/image " height="300" href="Images/IMG_0132.JPG" placement="inline" width="300" xtrc="image:2;58:21" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"/>
+      <image align="left" alt="Cerberus in Car" class="- topic/image " height="300" href="Images/IMG_0183.JPG" placement="inline" width="300" xtrc="image:3;60:23" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Profile%20foster%20orgs.dita"/>
+    </section>
+  </conbody>
+</concept><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_2" oid="Cerberus-match-guide" specializations="@props/deliveryTarget" xtrc="concept:1;2:36" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus Match Guide</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">This guide outlines Cerberus’s care needs, temperament, and compatibility to help determine if you and Cerberus are a good match.  
+    A strong match ensures long-term success for both dog and caregiver.
+  </shortdesc>
+  <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;7:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <section class="- topic/section " xtrc="section:1;8:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:2;9:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Ideal Home Environment</title>
+    <p class="- topic/p " xtrc="p:1;10:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus thrives in calm, structured environments. He benefits from consistent routines and companionship throughout the day.
+    A house with a secure yard works best. Cerberus is not suited to apartment living. 
+    </p>
+    <p class="- topic/p " xtrc="p:2;13:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;13:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Best fit:</b></p>
+      <ul class="- topic/ul " xtrc="ul:1;14:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:1;15:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Access to outdoor space</li>
+        <li class="- topic/li " xtrc="li:2;16:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Quiet, predictable routines</li>
+        <li class="- topic/li " xtrc="li:3;17:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Human presence during most of the day</li>
+        <li class="- topic/li " xtrc="li:4;18:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">A playmate (e.g., resident dog)</li>
+      </ul>
+  </section>
+  <section class="- topic/section " xtrc="section:2;21:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:3;22:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Energy Compatibility</title>
+    <p class="- topic/p " xtrc="p:3;23:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus brings enthusiasm and a strong working drive. He needs regular movement, stimulation, and shared purpose. Daily walks, play, and short training sessions help him feel settled and engaged.</p>
+    <p class="- topic/p " xtrc="p:4;24:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;24:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Care includes:</b></p>
+      <ul class="- topic/ul " xtrc="ul:2;25:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:5;26:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">60+ minutes of activity each day</li>
+        <li class="- topic/li " xtrc="li:6;27:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Toys and games that challenge his mind</li>
+        <li class="- topic/li " xtrc="li:7;28:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Consistent feedback and clear direction</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:3;32:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:4;33:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Experience Level</title>
+    <p class="- topic/p " xtrc="p:5;34:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus responds to steady, confident leadership. With guidance, he adapts 
+    well and enjoys learning. Experienced handlers and new adopters who commit to 
+    structure and support can succeed with him.</p>
+    
+    <p class="- topic/p " xtrc="p:6;38:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;38:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Caregiver strengths:</b></p>
+      <ul class="- topic/ul " xtrc="ul:3;39:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:8;40:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Has experience with working breeds</li>
+        <li class="- topic/li " xtrc="li:9;41:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Clear boundaries and consistency</li>
+        <li class="- topic/li " xtrc="li:10;42:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Commitment to ongoing training</li>
+        <li class="- topic/li " xtrc="li:11;43:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Calm and attentive presence</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:4;47:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:5;48:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Household Compatibility</title>
+    <p class="- topic/p " xtrc="p:7;49:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus does best in adult-only homes or with children over 5 years old. 
+    He prefers environments free from overstimulation. 
+    His high prey drive makes cat-free homes ideal. 
+    He may live well with a calm, balanced dog after a careful introduction.
+    </p>
+      
+    <p class="- topic/p " xtrc="p:8;55:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;55:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Additional needs:</b></p>
+      <ul class="- topic/ul " xtrc="ul:4;56:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:12;57:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Time and space to decompress</li>
+        <li class="- topic/li " xtrc="li:13;58:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Consistent structure to build trust</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:5;62:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:6;63:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Feeding and Food Habits</title>
+    <p class="- topic/p " xtrc="p:9;64:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus eats well and responds to food as a training tool. He enjoys a steady routine and a balanced diet.</p>
+      <ul class="- topic/ul " xtrc="ul:5;65:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:14;66:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Two meals daily of dry kibble</li>
+        <li class="- topic/li " xtrc="li:15;67:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Likes yogurt, peanut butter, broths, and watermelon</li>
+        <li class="- topic/li " xtrc="li:16;68:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Fast eater and drinker (slow feeder recommended)</li>
+        <li class="- topic/li " xtrc="li:17;69:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Begs at the table but is not fed from it</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:6;73:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:7;74:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Temperament and Activity</title>
+    <p class="- topic/p " xtrc="p:10;75:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus is alert, affectionate, and playful. He builds bonds quickly and shows joy when given shared tasks.</p>
+      <ul class="- topic/ul " xtrc="ul:6;76:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:18;77:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Active and eager to engage</li>
+        <li class="- topic/li " xtrc="li:19;78:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Protective instincts; good alertness</li>
+        <li class="- topic/li " xtrc="li:20;79:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Needs structured walks and mental games</li>
+        <li class="- topic/li " xtrc="li:21;80:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Enjoys treat balls, squeaky toys, beach balls</li>
+        <li class="- topic/li " xtrc="li:22;81:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Not responsive to frisbees</li>
+        <li class="- topic/li " xtrc="li:23;82:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Supervision recommended during soft toy play</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:7;86:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:8;87:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Socialization</title>
+    <p class="- topic/p " xtrc="p:11;88:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus connects deeply and thrives in homes with structure. He values routine, activity, and companionship.</p>
+      <ul class="- topic/ul " xtrc="ul:7;89:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:24;90:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Loves children (above 5-8 years old)</li>
+        <li class="- topic/li " xtrc="li:25;91:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Trained to give hugs, doesn’t jump up</li>
+        <li class="- topic/li " xtrc="li:26;92:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Learning personal boundaries</li>
+        <li class="- topic/li " xtrc="li:27;93:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Pack-oriented; enjoys daycare and dog companions</li>
+        <li class="- topic/li " xtrc="li:28;94:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Will tolerate crates</li> 
+        <li class="- topic/li " xtrc="li:29;95:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Dislikes long periods alone</li>
+        <li class="- topic/li " xtrc="li:30;96:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Not compatible with cats</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:8;100:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:9;101:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Training Needs</title>
+    <p class="- topic/p " xtrc="p:12;102:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus shows strong potential and benefits from structured, positive reinforcement.</p>
+      <ul class="- topic/ul " xtrc="ul:8;103:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:31;104:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Currently in formal training with Lydia Register (AAS, CPDT-KA)</li>
+        <li class="- topic/li " xtrc="li:32;105:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">High prey drive (squirrels, rabbits, small dogs)</li>
+        <li class="- topic/li " xtrc="li:33;106:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Can jump up on cue</li>
+      </ul>
+    <note class="- topic/note " xtrc="note:1;108:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Lydia Register will offer discounted training sessions to Cerberus's future adopter.</note>
+    
+    <p class="- topic/p " xtrc="p:13;110:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Training success depends on:</p>
+      <ul class="- topic/ul " xtrc="ul:9;111:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:34;112:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Positive reinforcement</li>
+        <li class="- topic/li " xtrc="li:35;113:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Daily, clear communication</li>
+        <li class="- topic/li " xtrc="li:36;114:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Avoidance of punishment-based methods</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:9;118:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:10;119:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Lifestyle Fit Scenarios</title>
+      <ul class="- topic/ul " xtrc="ul:10;120:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:37;121:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Remote or hybrid worker: Excellent match for consistent engagement</li>
+        <li class="- topic/li " xtrc="li:38;122:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Active adult or couple: Good fit for shared activity and bonding</li>
+        <li class="- topic/li " xtrc="li:39;123:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Retiree with routine: Works well if structured and attentive</li>
+        <li class="- topic/li " xtrc="li:40;124:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">High-traffic or chaotic home: Not a good match</li>
+        <li class="- topic/li " xtrc="li:41;125:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Confined living space (i.e., apartment): Not a good match</li>
+      </ul>
+  </section>
+
+  <section class="- topic/section " xtrc="section:10;129:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:11;130:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Summary</title>
+    <p class="- topic/p " xtrc="p:14;131:8" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">Cerberus is energetic, trainable, and full of heart. He builds trust with presence, structure, and mutual respect. Cerberus is a great companion who will grow alongside a dedicated owner.</p>
+    <note class="- topic/note " xtrc="note:2;132:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita">For adoption or foster inquires, please reach out to <xref class="- topic/xref " format="html" href="mailto:christinaemayr@gmail.com" scope="external" xtrc="xref:1;132:140" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Concept-Cerberus-Match-Guide-foster-orgs.dita"><?ditaot usertext?>Christina Mayr</xref>.</note>
+  </section>
+  </conbody>
+</concept><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_6" oid="Daily-Routine" specializations="@props/deliveryTarget" xtrc="reference:1;2:31" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Daily Routine: Feeding, Exercise, and Potty</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+    Cerberus thrives with a consistent daily schedule to balance his energy, meet his core needs, and build trust.
+  </shortdesc>
+
+  <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;8:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+    <section class="- topic/section " xtrc="section:1;9:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:2;10:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Morning Routine</title>
+      <ul class="- topic/ul " xtrc="ul:1;11:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:1;12:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Potty break immediately upon waking.</li>
+        <li class="- topic/li " xtrc="li:2;13:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">20–30 min active walk or play.</li>
+        <li class="- topic/li " xtrc="li:3;14:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Breakfast meal with potty break afterward.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:2;18:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:3;19:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Midday Routine</title>
+      <ul class="- topic/ul " xtrc="ul:2;20:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:4;21:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Potty break, short walk or play session (10–15 min).</li>
+        <li class="- topic/li " xtrc="li:5;22:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Provide mental enrichment (puzzle toys, frozen treats).</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:3;26:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:4;27:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Afternoon and Evening Routine</title>
+      <ul class="- topic/ul " xtrc="ul:3;28:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:6;29:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">45–60 min structured exercise.</li>
+        <li class="- topic/li " xtrc="li:7;30:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Dinner meal followed by potty break.</li>
+        <li class="- topic/li " xtrc="li:8;31:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Quiet activities: training, grooming, cuddles.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:4;35:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:5;36:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Bedtime Routine</title>
+      <ul class="- topic/ul " xtrc="ul:4;37:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:9;38:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Final potty break before bed.</li>
+        <li class="- topic/li " xtrc="li:10;39:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Settle in a designated sleeping area.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:5;43:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:6;44:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Weekly Grooming</title>
+      <ul class="- topic/ul " xtrc="ul:5;45:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:11;46:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Coat brushing.</li>
+        <li class="- topic/li " xtrc="li:12;47:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Teeth brushing with dog-safe toothpaste.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:6;51:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:7;52:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">Importance of Routine</title>
+      <p class="- topic/p " xtrc="p:1;53:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Daily-Routine-foster-orgs.dita">
+        A consistent routine reduces stress, supports training, and promotes calm, confident behavior.
+      </p>
+    </section>
+  </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_3" oid="Common-Housing-Questions" specializations="@props/deliveryTarget" xtrc="reference:1;2:42" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Common Housing Questions</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+    This reference answers the most common questions about preparing your home for Cerberus. 
+  </shortdesc>
+
+  <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;8:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+    <section class="- topic/section " xtrc="section:1;9:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:2;10:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: Do I need a house with a yard to adopt Cerberus?</title>
+      <p class="- topic/p " xtrc="p:1;11:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Yes, Cerberus is best suited to houses with backyards to allow him to meet his daily
+        activity needs. He needs at least 60 minutes of combined walking and play every day, i.e.,
+        two 30-minute walks a day. If you have a yard, ensure it is fully fenced with no gaps or
+        weak spots. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:2;17:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:3;18:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: How long can Cerberus be left alone?</title>
+      <p class="- topic/p " xtrc="p:2;19:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus does best when someone is home for part of the day. If you work full-time,
+        arrange a midday potty break with a dog walker, neighbor, or doggy daycare. He should not be
+        left alone for more than 4–5 hours without a break. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:3;24:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:4;25:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: Does Cerberus need a crate?</title>
+      <p class="- topic/p " xtrc="p:3;26:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus can tolerate crates and sleep in crates for extended periods with appropriate
+        encouragement. A soft-sided crate or a quiet “safe area” can be used for short rest periods,
+        but a gated room or playpen is often a better option. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:4;31:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:5;32:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: How should I set up my home before Cerberus arrives?</title>
+      <p class="- topic/p " xtrc="p:4;33:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Prepare a calm space with his bed, bowls, and toys ready. Remove anything he might chew
+        (cords, shoes, small objects). Secure trash, cleaning supplies, and medications so they are
+        out of reach. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:5;38:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:6;39:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: Can Cerberus live with cats or other small pets?</title>
+      <p class="- topic/p " xtrc="p:5;40:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus is not compatible with cats and has a strong prey drive. Small pets must have
+        fully secure enclosures and be closely supervised if they are in the same home.</p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:6;44:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:7;45:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: Can Cerberus live with another dog?</title>
+      <p class="- topic/p " xtrc="p:6;46:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus may do well with a calm, balanced dog after slow, careful introductions.
+        Success depends on the other dog’s temperament and the adopter’s ability to manage the
+        process. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:7;51:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:8;52:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: What if my home situation is different from these examples?</title>
+      <p class="- topic/p " xtrc="p:7;53:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Every home is unique. If you have questions about your specific setup, please reach out
+        to the foster team. For foster team contact information, please see the <xref class="- topic/xref " href="#unique_7" ohref="Reference-Foster-Contact-Sheet-foster-orgs.dita" type="reference" xtrc="xref:1;54:142" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita"><?ditaot usertext?>Foster Contact Sheet<?ditaot genshortdesc?><desc class="- topic/desc ">     Internal reference for foster team and volunteers.      Lists key contacts, their roles, and the best way to reach them for Cerberus’s care and adoption needs.   </desc></xref></p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:8;57:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:9;58:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: What are Cerberus’s exercise needs if I work long hours?</title>
+      <p class="- topic/p " xtrc="p:8;59:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus needs at least 60 minutes of combined daily exercise. If you work long hours,
+        consider arranging a midday dog walker or daycare. A longer walk or play session before and
+        after work will also help him feel balanced. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:9;64:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:10;65:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: How do I introduce Cerberus to children?</title>
+      <p class="- topic/p " xtrc="p:9;66:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus does best in adult-only homes or with children over five years old. Always
+        supervise interactions, teach children to respect Cerberus's space, and avoid hugging or
+        rough play. For more information on how to introduce Cerberus to children, contact <xref class="- topic/xref " format="html" href="mailto:puptentialtraining@gmail.com" scope="external" xtrc="xref:2;69:85" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita"><?ditaot usertext?>Lydia Register</xref>, Cerberus's trainer, to set up a training session.</p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:10;72:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:11;73:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: How should I handle visitors coming to my home?</title>
+      <p class="- topic/p " xtrc="p:10;74:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Cerberus can be protective of his space. Keep him leashed or behind a gate during
+        arrivals and reward calm behavior as guests enter. Give him time to adjust at his own pace.
+        For more information on how to introduce Cerberus to visitors, contact <xref class="- topic/xref " format="html" href="mailto:puptentialtraining@gmail.com" scope="external" xtrc="xref:3;77:85" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita"><?ditaot usertext?>Lydia
+          Register</xref>, Cerberus's trainer, to set up a training session.</p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:11;81:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:12;82:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: Can Cerberus handle stairs or open spaces?</title>
+      <p class="- topic/p " xtrc="p:11;83:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Yes, but supervise him around open staircases or elevated spaces. Block access with baby
+        gates if you’re not confident about safety. </p>
+    </section>
+
+    <section class="- topic/section " xtrc="section:12;87:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">
+      <title class="- topic/title " xtrc="title:13;88:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">Q: How much time should I plan to spend at home during the first weeks?</title>
+      <p class="- topic/p " xtrc="p:12;89:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Common-Housing-Questions%20foster%20orgs.dita">A: Plan to be home as much as possible in the first 1–2 weeks to help Cerberus decompress
+        and learn his routine. Gradually increase time away once he’s more settled. </p>
+    </section>
+  </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_5" oid="cerberus-health-record" specializations="@props/deliveryTarget" xtrc="reference:1;2:40" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Cerberus Health and Vaccination Record</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</shortdesc>
+
+  <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+    <section class="- topic/section " xtrc="section:1;7:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:2;8:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Dog Details</title>
+      <ul class="- topic/ul " xtrc="ul:1;9:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:1;10:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;10:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Name:</b> Cerberus</li>
+        <li class="- topic/li " xtrc="li:2;11:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;11:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Breed:</b> Boxer / German Shepherd (Mix)</li>
+        <li class="- topic/li " xtrc="li:3;12:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:3;12:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Colour:</b> Tan/Yellow/Fawn with White</li>
+        <li class="- topic/li " xtrc="li:4;13:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:4;13:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Sex: </b>Male</li>
+        <li class="- topic/li " xtrc="li:5;14:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:5;14:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Age:</b> 10 months old</li>
+        <li class="- topic/li " xtrc="li:6;15:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:6;15:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Weight:</b> 52 lbs (current)</li>
+        <li class="- topic/li " xtrc="li:7;16:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:7;16:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Neutered:</b> No</li>
+        <li class="- topic/li " xtrc="li:8;17:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:8;17:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Microchipped:</b>No</li>
+        <li class="- topic/li " xtrc="li:9;18:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:9;18:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Pet ID:</b> 7264971</li>
+        <li class="- topic/li " xtrc="li:10;19:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><b class="+ topic/ph hi-d/b " xtrc="b:10;19:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Allergies: </b>None officially, but sneezes and itches frequently (testing allergy
+          chews)</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:2;24:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:3;25:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Vaccination Summary</title>
+      <p class="- topic/p " xtrc="p:1;26:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Based on Grace Animal Hospital and Tender Heart Mobile Veterinary Services records:</p>
+      <simpletable class="- topic/simpletable " xtrc="simpletable:1;27:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <sthead class="- topic/sthead " xtrc="sthead:1;28:17" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1" xtrc="stentry:1;29:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Vaccine</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1" xtrc="stentry:2;30:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Date Given</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1" xtrc="stentry:3;31:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Next Due</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="1" xtrc="stentry:4;32:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Clinic</stentry>
+        </sthead>
+        <strow class="- topic/strow " xtrc="strow:1;34:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2" xtrc="stentry:5;35:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Rabies</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2" xtrc="stentry:6;36:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2" xtrc="stentry:7;37:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2026-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="2" xtrc="stentry:8;38:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow class="- topic/strow " xtrc="strow:2;40:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3" xtrc="stentry:9;41:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">DHPP (Core)</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3" xtrc="stentry:10;42:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3" xtrc="stentry:11;43:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2026-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="3" xtrc="stentry:12;44:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow class="- topic/strow " xtrc="strow:3;46:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4" xtrc="stentry:13;47:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Leptospirosis</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4" xtrc="stentry:14;48:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4" xtrc="stentry:15;49:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2026-01-07</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="4" xtrc="stentry:16;50:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow class="- topic/strow " xtrc="strow:4;52:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5" xtrc="stentry:17;53:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Bordetella</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5" xtrc="stentry:18;54:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-06-30</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5" xtrc="stentry:19;55:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2026-06-30</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="5" xtrc="stentry:20;56:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Grace Animal Hospital</stentry>
+        </strow>
+        <strow class="- topic/strow " xtrc="strow:5;58:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6" xtrc="stentry:21;59:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Bordetella (Oral)</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6" xtrc="stentry:22;60:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2024-12-11</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="6" xtrc="stentry:23;61:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-12-11</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="6" xtrc="stentry:24;62:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+      </simpletable>
+    </section>
+
+    <section class="- topic/section " xtrc="section:3;67:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:4;68:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Medications and Treatments</title>
+      <ul class="- topic/ul " xtrc="ul:2;69:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:11;70:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Doxycycline: 2025-07-07 to 2025-07-14 (kennel cough)</li>
+        <li class="- topic/li " xtrc="li:12;71:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Meloxicam: 2025-07-07 to 2025-07-14 (anti-inflammatory)</li>
+        <li class="- topic/li " xtrc="li:13;72:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">NexGard (flea/tick prevention): Started 2025-07-21 (given every 30 days)</li>
+        <li class="- topic/li " xtrc="li:14;73:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Heartworm prevention: 2025-07-17 (Monthly medication)</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:4;77:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:5;78:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Vet Visit Log</title>
+      <ul class="- topic/ul " xtrc="ul:3;79:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:15;80:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-06-30: Grace Animal Hospital - Bordetella vaccine</li>
+        <li class="- topic/li " xtrc="li:16;81:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-01-07: Tender Heart Mobile Veterinary Services - Rabies, DHPP, Lepto boosters</li>
+        <li class="- topic/li " xtrc="li:17;82:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2024-12-11: Tender Heart Mobile Veterinary Services - Bordetella (oral)</li>
+        <li class="- topic/li " xtrc="li:18;83:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-07-17: Grace Animal Hospital - fecal test</li>
+        <li class="- topic/li " xtrc="li:19;84:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">2025-07-17: Grace Animal Hospital - Heartworm Test (negative)</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:5;88:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:6;89:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Upcoming Medical Needs</title>
+      <ul class="- topic/ul " xtrc="ul:4;90:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:20;91:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Next flea/tick dose: 2025-08-21</li>
+        <li class="- topic/li " xtrc="li:21;92:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Annual physical: 2026-01-07</li>
+        <li class="- topic/li " xtrc="li:22;93:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Rabies booster: 2026-01-07</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:6;97:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:7;98:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Record Tips</title>
+      <ul class="- topic/ul " xtrc="ul:5;99:11" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <li class="- topic/li " xtrc="li:23;100:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Keep a copy (digital and printed) for handoffs.</li>
+        <li class="- topic/li " xtrc="li:24;101:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Update after every vet visit or treatment.</li>
+        <li class="- topic/li " xtrc="li:25;102:13" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Bring this record to boarding, adoption events, and vet visits.</li>
+      </ul>
+    </section>
+
+    <section class="- topic/section " xtrc="section:7;106:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:8;107:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">Vaccination Summary</title>
+      <p class="- topic/p " xtrc="p:2;108:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">You can also view the full official vaccination record here (requires permission from
+        foster agent):</p>
+      <p class="- topic/p " xtrc="p:3;110:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita">
+        <xref class="- topic/xref " format="pdf" href="Docs/vaccinationrecord.pdf" xtrc="xref:1;111:62" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Cerberus-Health-and-Vaccination-Record-foster-orgs.dita"><?ditaot usertext?>Vaccination Record (PDF)</xref>
+      </p>
+    </section>
+  </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_7" oid="Volunteer-Foster-Contact-Sheet" specializations="@props/deliveryTarget" xtrc="reference:1;2:48" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+  <title class="- topic/title " xtrc="title:1;3:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Volunteer and Foster Contact Sheet</title>
+  <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;4:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+    Internal reference for foster team and volunteers. 
+    Lists key contacts, their roles, and the best way to reach them for Cerberus’s care and adoption needs.
+  </shortdesc>
+
+  <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;9:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+    <section class="- topic/section " xtrc="section:1;10:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:2;11:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Contact Directory</title>
+      <simpletable class="- topic/simpletable " xtrc="simpletable:1;12:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+        <sthead class="- topic/sthead " xtrc="sthead:1;13:17" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1" xtrc="stentry:1;14:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Name</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1" xtrc="stentry:2;15:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Role / Responsibility</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1" xtrc="stentry:3;16:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Email</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="1" xtrc="stentry:4;17:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Phone</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="1" xtrc="stentry:5;18:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">When to Contact</stentry>
+        </sthead>
+
+        <strow class="- topic/strow " xtrc="strow:1;21:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2" xtrc="stentry:6;22:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Christina Mayr</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2" xtrc="stentry:7;23:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Foster Coordinator</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2" xtrc="stentry:8;24:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+            <p class="- topic/p " xtrc="p:1;25:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><xref class="- topic/xref " format="html" href="mailto:christinaemayr@gmail.com" scope="external" xtrc="xref:1;25:92" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><?ditaot usertext?>christinaemayr@gmail.com</xref></p>
+          </stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="2" xtrc="stentry:9;27:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">+1 919-622-7508</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="2" xtrc="stentry:10;28:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+        
+        <strow class="- topic/strow " xtrc="strow:2;31:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3" xtrc="stentry:11;32:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Ruby Leonaraine</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3" xtrc="stentry:12;33:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Foster Coordinator</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3" xtrc="stentry:13;34:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+            <p class="- topic/p " xtrc="p:2;35:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><xref class="- topic/xref " format="html" href="mailto:rubyleonaraine@protonmail.com" scope="external" xtrc="xref:2;36:18" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><?ditaot usertext?>rubyleonaraine@protonmail.com</xref></p>
+          </stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="3" xtrc="stentry:14;38:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">860-209-3127</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="3" xtrc="stentry:15;39:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+        
+        <strow class="- topic/strow " xtrc="strow:3;42:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4" xtrc="stentry:16;43:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Lydia Register - Puptential Training</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4" xtrc="stentry:17;44:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Training and Behaviour</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4" xtrc="stentry:18;45:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+            <p class="- topic/p " xtrc="p:3;46:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><xref class="- topic/xref " format="html" href="mailto:puptentialtraining@gmail.com" scope="external" xtrc="xref:3;47:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><?ditaot usertext?>puptentialtraining@gmail.com</xref></p>
+          </stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="4" xtrc="stentry:19;49:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">+1 919-896-2985</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="4" xtrc="stentry:20;50:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Behavior support, training resources, training follow-up after adoption</stentry>
+        </strow>
+
+        <strow class="- topic/strow " xtrc="strow:4;53:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+          <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5" xtrc="stentry:21;54:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Maria Haque</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5" xtrc="stentry:22;55:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Adoption Project Lead</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5" xtrc="stentry:23;56:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+            <p class="- topic/p " xtrc="p:4;57:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><xref class="- topic/xref " format="html" href="mailto:mariahaque35@gmail.com" scope="external" xtrc="xref:4;57:90" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita"><?ditaot usertext?>mariahaque35@gmail.com</xref></p>
+          </stentry>
+          <stentry class="- topic/stentry " dita-ot:x="4" dita-ot:y="5" xtrc="stentry:24;59:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">+1 647-907-5562</stentry>
+          <stentry class="- topic/stentry " dita-ot:x="5" dita-ot:y="5" xtrc="stentry:25;60:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">PDF/content reuse, documentation questions</stentry>
+        </strow>
+      </simpletable>
+    </section>
+
+    <section class="- topic/section " xtrc="section:2;65:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+      <title class="- topic/title " xtrc="title:3;66:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">Emergency Contact</title>
+      <p class="- topic/p " xtrc="p:5;67:10" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">
+        For urgent issues (injuries, severe illness, or unsafe situations), call the designated 24/7 emergency line: <b class="+ topic/ph hi-d/b " xtrc="b:1;68:121" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./Reference-Foster-Contact-Sheet-foster-orgs.dita">911</b>
+      </p>
+    </section>
+  </refbody>
+</reference><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_4" oid="photo-repository.dita" specializations="@props/deliveryTarget" xtrc="concept:1;3:37" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Photo Repository</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">This photo repository contains pictures of Cerberus with his foster family and friends. Photos are accompanied with a short description.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"> 
+        <image class="- topic/image " height="300" href="Images/IMG_0132.JPG" placement="inline" width="300" xtrc="image:1;7:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:1;8:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus smiling at the camera.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0120.JPG" placement="inline" width="310" xtrc="image:2;9:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:2;10:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus in the driveway.</codeblock>
+        <image class="- topic/image " height="340" href="Images/IMG_0125.JPG" placement="inline" width="260" xtrc="image:3;11:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:3;12:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus on the field.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0138.JPG" placement="inline" width="350" xtrc="image:4;13:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:4;14:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus laying down.</codeblock>
+        <image class="- topic/image " height="340" href="Images/IMG_0151.JPG" placement="inline" width="340" xtrc="image:5;15:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:5;16:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus getting a treat.</codeblock>
+        <image class="- topic/image " height="340" href="Images/IMG_0182.JPG" placement="inline" width="340" xtrc="image:6;17:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:6;18:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus at the dog park with his foster family.</codeblock>
+        <image class="- topic/image " height="360" href="Images/IMG_0173.JPG" placement="inline" width="290" xtrc="image:7;20:27" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:7;21:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus in a crate.</codeblock>
+        <image class="- topic/image " height="340" href="Images/IMG_0282.JPG" placement="inline" width="380" xtrc="image:8;23:27" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:8;24:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus sunbathing.</codeblock>
+        <image class="- topic/image " height="310" href="Images/IMG_0305.JPG" placement="inline" width="355" xtrc="image:9;25:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:9;26:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus sleeping on his mini foster human.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0393.JPG" placement="inline" width="240" xtrc="image:10;27:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:10;28:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus sitting outside.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0420.JPG" placement="inline" width="250" xtrc="image:11;29:69" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:11;30:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus playing catch at the dog park.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0183.JPG" id="unique_4_Connect_42_image_aqz_bxz_2gc" placement="inline" xtrc="image:12;31:80" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:12;32:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus in a car ride with his foster family.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_0307.JPG" placement="inline" xtrc="image:13;33:57" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:13;34:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus playing with a toy.</codeblock>
+        <image class="- topic/image " height="300" href="Images/IMG_F6B04905-7CB3-43BA-98E0-690D94E4EBE3.jpeg" placement="inline" xtrc="image:14;35:90" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita"/>
+        <codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:14;36:20" xtrf="file:/Users/mariahaque/Documents/Cerberus-Dog-Adoption-DITA/Foster%20Orgs./photo-repository-foster-orgs.dita">Cerberus being goofy!</codeblock>
+    </conbody>
+</concept><opentopic-index:index.groups/></map>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="photo-repository.dita">
+    <title>Photo Repository</title>
+    <shortdesc>This photo repository contains pictures of Cerberus with his foster family and friends. Photos are accompanied with a short description.</shortdesc>
+    <conbody>
+        <image href="Images/IMG_0132.JPG" width="300" height="300"/>
+        <image href="Images/IMG_0173.JPG" width="290" height="310" id="image_ap4_sps_4gc"/>
+        <codeblock>Cerberus smiling at the camera and inside a crate.</codeblock>
+        <image href="Images/IMG_0420.JPG" width="250" height="300"/>
+        <image href="Images/IMG_0182.JPG" width="280" height="300" id="image_tch_nms_4gc"/>
+        <codeblock>Cerberus playing catch at the dog park.</codeblock>
+        <image href="Images/IMG_0183.JPG" id="image_aqz_bxz_2gc" height="300"/>
+        <image href="Images/IMG_0305.JPG" width="355" height="310" id="image_p15_pms_4gc"/>
+        <codeblock>Cerberus with his foster family.</codeblock>
+    </conbody>
+</concept>

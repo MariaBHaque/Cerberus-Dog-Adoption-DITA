@@ -1,0 +1,62 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Volunteer-Foster-Contact-Sheet">
+  <title>Volunteer and Foster Contact Sheet</title>
+  <shortdesc>
+    Internal reference for foster team and volunteers. 
+    Lists key contacts, their roles, and the best way to reach them for Cerberus’s care and adoption needs.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>Contact Directory</title>
+      <simpletable>
+        <sthead>
+          <stentry>Name</stentry>
+          <stentry>Role / Responsibility</stentry>
+          <stentry>Email</stentry>
+          <stentry>Phone</stentry>
+          <stentry>When to Contact</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>Christina Mayr</stentry>
+          <stentry>Foster Coordinator</stentry>
+          <stentry>
+            <p><xref href="mailto:christinaemayr@gmail.com" format="html" scope="external">christinaemayr@gmail.com</xref></p>
+          </stentry>
+          <stentry>+1 919-622-7508</stentry>
+          <stentry>All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+        
+        <strow>
+          <stentry>Ruby Leonaraine</stentry>
+          <stentry>Foster Coordinator</stentry>
+          <stentry>
+            <p><xref href="mailto:rubyleonaraine@protonmail.com" format="html" scope="external"
+                >rubyleonaraine@protonmail.com</xref></p>
+          </stentry>
+          <stentry>860-209-3127</stentry>
+          <stentry>All adoption inquiries, foster support, behavioral questions</stentry>
+        </strow>
+        
+        <strow>
+          <stentry>Lydia Register - Puptential Training</stentry>
+          <stentry>Training and Behaviour</stentry>
+          <stentry>
+            <p><xref href="mailto:puptentialtraining@gmail.com" format="html" scope="external"
+              >puptentialtraining@gmail.com</xref></p>
+          </stentry>
+          <stentry>+1 919-896-2985</stentry>
+          <stentry>Behavior support, training resources, training follow-up after adoption</stentry>
+        </strow>
+      </simpletable>
+    </section>
+
+    <section>
+      <title>Emergency Contact</title>
+      <p>
+        For urgent issues (injuries, severe illness, or unsafe situations), call the designated 24/7 emergency line: <b>911</b>
+      </p>
+    </section>
+  </refbody>
+</reference>
